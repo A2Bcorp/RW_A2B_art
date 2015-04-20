@@ -15,7 +15,10 @@
    inkscape:version="0.48.2 r9819"
    width="64"
    height="64"
-   sodipodi:docname="Selector3.png">
+   sodipodi:docname="Selector.svg"
+   inkscape:export-filename="/Users/fvogt/Games/RimWorld/MODDING/A2B/A2B_textures/Building/5/Selector.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -24,7 +27,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -12270,7 +12273,7 @@
      transform="matrix(0.14394322,0,0,0.17587033,5.007412,34.733391)" />
   <text
      xml:space="preserve"
-     style="font-size:22.40271378px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#88aa00;fill-opacity:1;stroke:#000000;stroke-width:0.78409493;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Rockwell;-inkscape-font-specification:Rockwell Bold"
+     style="font-size:22.40271377999999913px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#649600;fill-opacity:1;stroke:#000000;stroke-width:0.78409492999999986;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Rockwell;-inkscape-font-specification:Rockwell Bold"
      x="31.989061"
      y="20.607952"
      id="text4526"
@@ -12279,10 +12282,10 @@
        id="tspan4528"
        x="31.989061"
        y="20.607952"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#88aa00;fill-opacity:1;stroke:#000000;stroke-width:0.78409493;stroke-opacity:1;font-family:Rockwell;-inkscape-font-specification:Rockwell Bold">1</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#649600;fill-opacity:1;stroke:#000000;stroke-width:0.78409492999999986;stroke-opacity:1;font-family:Rockwell;-inkscape-font-specification:Rockwell Bold">1</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:22.04105759px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#88aa00;fill-opacity:1;stroke:#000000;stroke-width:0.77143699;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Rockwell;-inkscape-font-specification:Rockwell Bold"
+     style="font-size:22.04105759000000120px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#649600;fill-opacity:1;stroke:#000000;stroke-width:0.77143698999999999;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Rockwell;-inkscape-font-specification:Rockwell Bold"
      x="32.177578"
      y="-43.385719"
      id="text4536"
@@ -12292,24 +12295,7 @@
        id="tspan4538"
        x="32.177578"
        y="-43.385719"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#88aa00;fill-opacity:1;stroke:#000000;stroke-width:0.77143699;stroke-opacity:1;font-family:Rockwell;-inkscape-font-specification:Rockwell Bold">2</tspan></text>
-  <path
-     sodipodi:type="star"
-     style="fill:#d45500;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.92391175;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-     id="path3658"
-     sodipodi:sides="3"
-     sodipodi:cx="31.643028"
-     sodipodi:cy="47.913322"
-     sodipodi:r1="8.1317282"
-     sodipodi:r2="4.0658641"
-     sodipodi:arg1="1.5707963"
-     sodipodi:arg2="2.6179939"
-     inkscape:flatsided="true"
-     inkscape:rounded="0"
-     inkscape:randomized="0"
-     d="m 31.643028,56.045051 -7.042283,-12.197592 14.084566,-10e-7 z"
-     transform="matrix(0,0.96009917,0.91288814,0,-33.595343,1.6195549)"
-     inkscape:transform-center-x="-1.8558399" />
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#649600;fill-opacity:1;stroke:#000000;stroke-width:0.77143698999999999;stroke-opacity:1;font-family:Rockwell;-inkscape-font-specification:Rockwell Bold">2</tspan></text>
   <path
      transform="matrix(0.96009916,0,0,-0.91288814,1.6195553,97.59534)"
      d="m 31.643028,56.045051 -7.042283,-12.197592 14.084566,-10e-7 z"
@@ -12324,7 +12310,7 @@
      sodipodi:cx="31.643028"
      sodipodi:sides="3"
      id="path4420"
-     style="fill:#d45500;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.92391175;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     style="fill:#c89600;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.92391175000000003;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
      sodipodi:type="star"
      inkscape:transform-center-y="-1.8558406" />
   <rect
@@ -12501,4 +12487,17 @@
      id="path5705"
      style="fill:#907c6f;fill-opacity:1;stroke:#333333;stroke-width:5.69210005;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter4943)"
      sodipodi:type="arc" />
+  <text
+     sodipodi:linespacing="125%"
+     id="text4892"
+     y="20.614281"
+     x="-31.822422"
+     style="font-size:22.04105759px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#649600;fill-opacity:1;stroke:#000000;stroke-width:0.77143699;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Rockwell;-inkscape-font-specification:Rockwell Bold"
+     xml:space="preserve"
+     transform="matrix(0,-1,1,0,0,0)"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#649600;fill-opacity:1;stroke:#000000;stroke-width:0.77143699;stroke-opacity:1;font-family:Rockwell;-inkscape-font-specification:Rockwell Bold"
+       y="20.614281"
+       x="-31.822422"
+       id="tspan4894"
+       sodipodi:role="line">2</tspan></text>
 </svg>
