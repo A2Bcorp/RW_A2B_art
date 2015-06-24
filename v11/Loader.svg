@@ -1,0 +1,5391 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   width="64"
+   height="64"
+   sodipodi:docname="Loader.svg"
+   inkscape:export-filename="/Users/fvogt/Games/RimWorld/MODDING/A2B/A2B_textures/Building/5/Loader.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern5507"
+       id="pattern4408"
+       patternTransform="matrix(5.1054055,0,0,10.622703,19.363513,-143.25917)" />
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Basic specular bevel to use for building textures"
+       inkscape:menu="Bevels"
+       inkscape:label="Combined lighting"
+       id="filter5897">
+      <feGaussianBlur
+         result="result0"
+         in="SourceGraphic"
+         stdDeviation="6"
+         id="feGaussianBlur5899" />
+      <feDiffuseLighting
+         result="result5"
+         surfaceScale="4"
+         diffuseConstant="1"
+         lighting-color="rgb(255,255,255)"
+         id="feDiffuseLighting5901">
+        <feDistantLight
+           azimuth="235"
+           elevation="45"
+           id="feDistantLight5903" />
+      </feDiffuseLighting>
+      <feComposite
+         operator="arithmetic"
+         result="fbSourceGraphic"
+         in="result5"
+         k1="1.4"
+         in2="SourceGraphic"
+         id="feComposite5905" />
+      <feGaussianBlur
+         stdDeviation="6"
+         in="fbSourceGraphic"
+         result="result0"
+         id="feGaussianBlur5907" />
+      <feSpecularLighting
+         in="result0"
+         result="result1"
+         lighting-color="rgb(255,255,255)"
+         surfaceScale="4"
+         specularConstant="1"
+         specularExponent="25"
+         id="feSpecularLighting5909">
+        <feDistantLight
+           elevation="45"
+           azimuth="235"
+           id="feDistantLight5911" />
+      </feSpecularLighting>
+      <feComposite
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="result1"
+         id="feComposite5913" />
+      <feComposite
+         in="result4"
+         result="result2"
+         operator="in"
+         in2="SourceGraphic"
+         id="feComposite5915" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Basic specular bevel to use for building textures"
+       inkscape:menu="Bevels"
+       inkscape:label="Combined lighting"
+       id="filter5877">
+      <feGaussianBlur
+         result="result0"
+         in="SourceGraphic"
+         stdDeviation="6"
+         id="feGaussianBlur5879" />
+      <feDiffuseLighting
+         result="result5"
+         surfaceScale="4"
+         diffuseConstant="1"
+         lighting-color="rgb(255,255,255)"
+         id="feDiffuseLighting5881">
+        <feDistantLight
+           azimuth="235"
+           elevation="45"
+           id="feDistantLight5883" />
+      </feDiffuseLighting>
+      <feComposite
+         operator="arithmetic"
+         result="fbSourceGraphic"
+         in="result5"
+         k1="1.4"
+         in2="SourceGraphic"
+         id="feComposite5885" />
+      <feGaussianBlur
+         stdDeviation="6"
+         in="fbSourceGraphic"
+         result="result0"
+         id="feGaussianBlur5887" />
+      <feSpecularLighting
+         in="result0"
+         result="result1"
+         lighting-color="rgb(255,255,255)"
+         surfaceScale="4"
+         specularConstant="1"
+         specularExponent="25"
+         id="feSpecularLighting5889">
+        <feDistantLight
+           elevation="45"
+           azimuth="235"
+           id="feDistantLight5891" />
+      </feSpecularLighting>
+      <feComposite
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="result1"
+         id="feComposite5893" />
+      <feComposite
+         in="result4"
+         result="result2"
+         operator="in"
+         in2="SourceGraphic"
+         id="feComposite5895" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Basic specular bevel to use for building textures"
+       inkscape:menu="Bevels"
+       inkscape:label="Combined lighting"
+       id="filter5857">
+      <feGaussianBlur
+         result="result0"
+         in="SourceGraphic"
+         stdDeviation="6"
+         id="feGaussianBlur5859" />
+      <feDiffuseLighting
+         result="result5"
+         surfaceScale="4"
+         diffuseConstant="1"
+         lighting-color="rgb(255,255,255)"
+         id="feDiffuseLighting5861">
+        <feDistantLight
+           azimuth="235"
+           elevation="45"
+           id="feDistantLight5863" />
+      </feDiffuseLighting>
+      <feComposite
+         operator="arithmetic"
+         result="fbSourceGraphic"
+         in="result5"
+         k1="1.4"
+         in2="SourceGraphic"
+         id="feComposite5865" />
+      <feGaussianBlur
+         stdDeviation="6"
+         in="fbSourceGraphic"
+         result="result0"
+         id="feGaussianBlur5867" />
+      <feSpecularLighting
+         in="result0"
+         result="result1"
+         lighting-color="rgb(255,255,255)"
+         surfaceScale="4"
+         specularConstant="1"
+         specularExponent="25"
+         id="feSpecularLighting5869">
+        <feDistantLight
+           elevation="45"
+           azimuth="235"
+           id="feDistantLight5871" />
+      </feSpecularLighting>
+      <feComposite
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="result1"
+         id="feComposite5873" />
+      <feComposite
+         in="result4"
+         result="result2"
+         operator="in"
+         in2="SourceGraphic"
+         id="feComposite5875" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Basic specular bevel to use for building textures"
+       inkscape:menu="Bevels"
+       inkscape:label="Combined lighting"
+       id="filter5837">
+      <feGaussianBlur
+         result="result0"
+         in="SourceGraphic"
+         stdDeviation="6"
+         id="feGaussianBlur5839" />
+      <feDiffuseLighting
+         result="result5"
+         surfaceScale="4"
+         diffuseConstant="1"
+         lighting-color="rgb(255,255,255)"
+         id="feDiffuseLighting5841">
+        <feDistantLight
+           azimuth="235"
+           elevation="45"
+           id="feDistantLight5843" />
+      </feDiffuseLighting>
+      <feComposite
+         operator="arithmetic"
+         result="fbSourceGraphic"
+         in="result5"
+         k1="1.4"
+         in2="SourceGraphic"
+         id="feComposite5845" />
+      <feGaussianBlur
+         stdDeviation="6"
+         in="fbSourceGraphic"
+         result="result0"
+         id="feGaussianBlur5847" />
+      <feSpecularLighting
+         in="result0"
+         result="result1"
+         lighting-color="rgb(255,255,255)"
+         surfaceScale="4"
+         specularConstant="1"
+         specularExponent="25"
+         id="feSpecularLighting5849">
+        <feDistantLight
+           elevation="45"
+           azimuth="235"
+           id="feDistantLight5851" />
+      </feSpecularLighting>
+      <feComposite
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="result1"
+         id="feComposite5853" />
+      <feComposite
+         in="result4"
+         result="result2"
+         operator="in"
+         in2="SourceGraphic"
+         id="feComposite5855" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Basic specular bevel to use for building textures"
+       inkscape:menu="Bevels"
+       inkscape:label="Combined lighting"
+       id="filter5817">
+      <feGaussianBlur
+         result="result0"
+         in="SourceGraphic"
+         stdDeviation="6"
+         id="feGaussianBlur5819" />
+      <feDiffuseLighting
+         result="result5"
+         surfaceScale="4"
+         diffuseConstant="1"
+         lighting-color="rgb(255,255,255)"
+         id="feDiffuseLighting5821">
+        <feDistantLight
+           azimuth="235"
+           elevation="45"
+           id="feDistantLight5823" />
+      </feDiffuseLighting>
+      <feComposite
+         operator="arithmetic"
+         result="fbSourceGraphic"
+         in="result5"
+         k1="1.4"
+         in2="SourceGraphic"
+         id="feComposite5825" />
+      <feGaussianBlur
+         stdDeviation="6"
+         in="fbSourceGraphic"
+         result="result0"
+         id="feGaussianBlur5827" />
+      <feSpecularLighting
+         in="result0"
+         result="result1"
+         lighting-color="rgb(255,255,255)"
+         surfaceScale="4"
+         specularConstant="1"
+         specularExponent="25"
+         id="feSpecularLighting5829">
+        <feDistantLight
+           elevation="45"
+           azimuth="235"
+           id="feDistantLight5831" />
+      </feSpecularLighting>
+      <feComposite
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="result1"
+         id="feComposite5833" />
+      <feComposite
+         in="result4"
+         result="result2"
+         operator="in"
+         in2="SourceGraphic"
+         id="feComposite5835" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.5"
+       width="1.5"
+       y="-0.25"
+       x="-0.25"
+       inkscape:menu-tooltip="Bubble effect with refraction and glow"
+       inkscape:menu="Ridges"
+       inkscape:label="Glowing bubble"
+       id="filter4943">
+      <feGaussianBlur
+         result="result1"
+         stdDeviation="1"
+         id="feGaussianBlur4945" />
+      <feGaussianBlur
+         in="result1"
+         result="result6"
+         stdDeviation="10"
+         id="feGaussianBlur4947" />
+      <feComposite
+         result="result8"
+         in="result6"
+         operator="atop"
+         in2="result1"
+         id="feComposite4949" />
+      <feComposite
+         in="result6"
+         result="fbSourceGraphic"
+         operator="xor"
+         in2="result8"
+         id="feComposite4951" />
+      <feColorMatrix
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 2 0 "
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha"
+         id="feColorMatrix4953" />
+      <feGaussianBlur
+         stdDeviation="1"
+         in="fbSourceGraphicAlpha"
+         result="result0"
+         id="feGaussianBlur4955" />
+      <feSpecularLighting
+         in="result0"
+         result="result1"
+         lighting-color="rgb(255,255,255)"
+         surfaceScale="-2"
+         specularConstant="1.5"
+         specularExponent="35"
+         id="feSpecularLighting4957">
+        <feDistantLight
+           elevation="60"
+           azimuth="230"
+           id="feDistantLight4959" />
+      </feSpecularLighting>
+      <feComposite
+         in="result1"
+         result="result2"
+         operator="in"
+         in2="fbSourceGraphicAlpha"
+         id="feComposite4961" />
+      <feComposite
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="result2"
+         id="feComposite4963" />
+      <feComposite
+         result="result91"
+         in="result9"
+         operator="atop"
+         in2="result4"
+         id="feComposite4965" />
+      <feBlend
+         mode="multiply"
+         in2="result91"
+         id="feBlend4967" />
+    </filter>
+    <inkscape:perspective
+       id="perspective5958"
+       inkscape:persp3d-origin="191.49657 : 52.35428 : 1"
+       inkscape:vp_z="223.49657 : 63.020947 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="159.49657 : 63.020947 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       id="linearGradient5984">
+      <stop
+         id="stop5986"
+         offset="0"
+         style="stop-color:#1a1a1a;stop-opacity:1;" />
+      <stop
+         style="stop-color:#464646;stop-opacity:1;"
+         offset="0.5"
+         id="stop5992" />
+      <stop
+         id="stop5988"
+         offset="1"
+         style="stop-color:#1a1a1a;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6016">
+      <stop
+         id="stop6018"
+         offset="0"
+         style="stop-color:#ffcc00;stop-opacity:0.39215687;" />
+      <stop
+         style="stop-color:#ffcc00;stop-opacity:1;"
+         offset="0.5"
+         id="stop6024" />
+      <stop
+         id="stop6020"
+         offset="1"
+         style="stop-color:#ffcc00;stop-opacity:0.39215687;" />
+    </linearGradient>
+    <filter
+       id="filter5358"
+       inkscape:label="Combined lighting"
+       inkscape:menu="Bevels"
+       inkscape:menu-tooltip="Basic specular bevel to use for building textures"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur5360"
+         stdDeviation="6"
+         in="SourceGraphic"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting5362"
+         lighting-color="rgb(255,255,255)"
+         diffuseConstant="1"
+         surfaceScale="4"
+         result="result5">
+        <feDistantLight
+           id="feDistantLight5364"
+           elevation="45"
+           azimuth="235" />
+      </feDiffuseLighting>
+      <feComposite
+         id="feComposite5366"
+         in2="SourceGraphic"
+         k1="1.4"
+         in="result5"
+         result="fbSourceGraphic"
+         operator="arithmetic" />
+      <feGaussianBlur
+         id="feGaussianBlur5368"
+         result="result0"
+         in="fbSourceGraphic"
+         stdDeviation="6" />
+      <feSpecularLighting
+         id="feSpecularLighting5370"
+         specularExponent="25"
+         specularConstant="1"
+         surfaceScale="4"
+         lighting-color="rgb(255,255,255)"
+         result="result1"
+         in="result0">
+        <feDistantLight
+           id="feDistantLight5372"
+           azimuth="235"
+           elevation="45" />
+      </feSpecularLighting>
+      <feComposite
+         id="feComposite5374"
+         in2="result1"
+         k3="1"
+         k2="1"
+         operator="arithmetic"
+         result="result4"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite5376"
+         in2="SourceGraphic"
+         operator="in"
+         result="result2"
+         in="result4" />
+    </filter>
+    <filter
+       id="filter5378"
+       inkscape:label="Combined lighting"
+       inkscape:menu="Bevels"
+       inkscape:menu-tooltip="Basic specular bevel to use for building textures"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur5380"
+         stdDeviation="6"
+         in="SourceGraphic"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting5382"
+         lighting-color="rgb(255,255,255)"
+         diffuseConstant="1"
+         surfaceScale="4"
+         result="result5">
+        <feDistantLight
+           id="feDistantLight5384"
+           elevation="45"
+           azimuth="235" />
+      </feDiffuseLighting>
+      <feComposite
+         id="feComposite5386"
+         in2="SourceGraphic"
+         k1="1.4"
+         in="result5"
+         result="fbSourceGraphic"
+         operator="arithmetic" />
+      <feGaussianBlur
+         id="feGaussianBlur5388"
+         result="result0"
+         in="fbSourceGraphic"
+         stdDeviation="6" />
+      <feSpecularLighting
+         id="feSpecularLighting5390"
+         specularExponent="25"
+         specularConstant="1"
+         surfaceScale="4"
+         lighting-color="rgb(255,255,255)"
+         result="result1"
+         in="result0">
+        <feDistantLight
+           id="feDistantLight5392"
+           azimuth="235"
+           elevation="45" />
+      </feSpecularLighting>
+      <feComposite
+         id="feComposite5394"
+         in2="result1"
+         k3="1"
+         k2="1"
+         operator="arithmetic"
+         result="result4"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite5396"
+         in2="SourceGraphic"
+         operator="in"
+         result="fbSourceGraphic"
+         in="result4" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5462" />
+      <feGaussianBlur
+         id="feGaussianBlur5464"
+         stdDeviation="6"
+         in="fbSourceGraphic"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting5466"
+         lighting-color="rgb(255,255,255)"
+         diffuseConstant="1"
+         surfaceScale="4"
+         result="result5">
+        <feDistantLight
+           id="feDistantLight5468"
+           elevation="45"
+           azimuth="235" />
+      </feDiffuseLighting>
+      <feComposite
+         id="feComposite5470"
+         in2="fbSourceGraphic"
+         k1="1.4"
+         in="result5"
+         result="fbSourceGraphic"
+         operator="arithmetic" />
+      <feGaussianBlur
+         id="feGaussianBlur5472"
+         result="result0"
+         in="fbSourceGraphic"
+         stdDeviation="6" />
+      <feSpecularLighting
+         id="feSpecularLighting5474"
+         specularExponent="25"
+         specularConstant="1"
+         surfaceScale="4"
+         lighting-color="rgb(255,255,255)"
+         result="result1"
+         in="result0">
+        <feDistantLight
+           id="feDistantLight5476"
+           azimuth="235"
+           elevation="45" />
+      </feSpecularLighting>
+      <feComposite
+         id="feComposite5478"
+         in2="result1"
+         k3="1"
+         k2="1"
+         operator="arithmetic"
+         result="result4"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite5480"
+         in2="fbSourceGraphic"
+         operator="in"
+         result="result2"
+         in="result4" />
+    </filter>
+    <filter
+       id="filter5442"
+       inkscape:label="Combined lighting"
+       inkscape:menu="Bevels"
+       inkscape:menu-tooltip="Basic specular bevel to use for building textures"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur5444"
+         stdDeviation="6"
+         in="SourceGraphic"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting5446"
+         lighting-color="rgb(255,255,255)"
+         diffuseConstant="1"
+         surfaceScale="4"
+         result="result5">
+        <feDistantLight
+           id="feDistantLight5448"
+           elevation="45"
+           azimuth="235" />
+      </feDiffuseLighting>
+      <feComposite
+         id="feComposite5450"
+         in2="SourceGraphic"
+         k1="1.4"
+         in="result5"
+         result="fbSourceGraphic"
+         operator="arithmetic" />
+      <feGaussianBlur
+         id="feGaussianBlur5452"
+         result="result0"
+         in="fbSourceGraphic"
+         stdDeviation="6" />
+      <feSpecularLighting
+         id="feSpecularLighting5454"
+         specularExponent="25"
+         specularConstant="1"
+         surfaceScale="4"
+         lighting-color="rgb(255,255,255)"
+         result="result1"
+         in="result0">
+        <feDistantLight
+           id="feDistantLight5456"
+           azimuth="235"
+           elevation="45" />
+      </feSpecularLighting>
+      <feComposite
+         id="feComposite5458"
+         in2="result1"
+         k3="1"
+         k2="1"
+         operator="arithmetic"
+         result="result4"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite5460"
+         in2="SourceGraphic"
+         operator="in"
+         result="result2"
+         in="result4" />
+    </filter>
+    <filter
+       id="filter6032"
+       inkscape:label="Dots transparency"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Image effects, transparent"
+       inkscape:menu-tooltip="Gives a pointillist HSL sensitive transparency"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence6034"
+         result="result1"
+         numOctaves="3"
+         baseFrequency="1"
+         type="fractalNoise"
+         seed="50" />
+      <feColorMatrix
+         id="feColorMatrix6036"
+         result="result0"
+         in="SourceGraphic"
+         type="luminanceToAlpha" />
+      <feColorMatrix
+         id="feColorMatrix6038"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.7 0 "
+         result="result2" />
+      <feComposite
+         id="feComposite6040"
+         in2="result2"
+         in="result1"
+         operator="over"
+         result="result3" />
+      <feColorMatrix
+         id="feColorMatrix6042"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -3.2 "
+         result="result91" />
+      <feComposite
+         id="feComposite6044"
+         in2="result91"
+         operator="out"
+         in="SourceGraphic"
+         result="result4" />
+    </filter>
+    <filter
+       id="filter6048"
+       inkscape:label="Dots transparency"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Image effects, transparent"
+       inkscape:menu-tooltip="Gives a pointillist HSL sensitive transparency"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence6050"
+         result="result1"
+         numOctaves="3"
+         baseFrequency="1"
+         type="fractalNoise"
+         seed="50" />
+      <feColorMatrix
+         id="feColorMatrix6052"
+         result="result0"
+         in="SourceGraphic"
+         type="luminanceToAlpha" />
+      <feColorMatrix
+         id="feColorMatrix6054"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.7 0 "
+         result="result2" />
+      <feComposite
+         id="feComposite6056"
+         in2="result2"
+         in="result1"
+         operator="over"
+         result="result3" />
+      <feColorMatrix
+         id="feColorMatrix6058"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -3.2 "
+         result="result91" />
+      <feComposite
+         id="feComposite6060"
+         in2="result91"
+         operator="out"
+         in="SourceGraphic"
+         result="result4" />
+    </filter>
+    <linearGradient
+       y2="-32"
+       x2="35.413094"
+       y1="-32"
+       x1="32"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3542"
+       xlink:href="#linearGradient6016-2"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-32"
+       x2="35.413094"
+       y1="-32"
+       x1="32"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3540"
+       xlink:href="#linearGradient5984-8"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-32"
+       x2="39.413094"
+       y1="-32"
+       x1="36"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3538"
+       xlink:href="#linearGradient6016-2"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-32"
+       x2="39.413094"
+       y1="-32"
+       x1="36"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3536"
+       xlink:href="#linearGradient5984-8"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-32"
+       x2="43.413094"
+       y1="-32"
+       x1="40"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3534"
+       xlink:href="#linearGradient6016-2"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-32"
+       x2="43.413094"
+       y1="-32"
+       x1="40"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3532"
+       xlink:href="#linearGradient5984-8"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-32"
+       x2="31.413094"
+       y1="-32"
+       x1="28"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3530"
+       xlink:href="#linearGradient6016-2"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-32"
+       x2="31.413094"
+       y1="-32"
+       x1="28"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3528"
+       xlink:href="#linearGradient5984-8"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-32"
+       x2="27.413094"
+       y1="-32"
+       x1="24"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3526"
+       xlink:href="#linearGradient6016-2"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-32"
+       x2="27.413094"
+       y1="-32"
+       x1="24"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3524"
+       xlink:href="#linearGradient5984-8"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-32"
+       x2="23.413094"
+       y1="-32"
+       x1="20"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3522"
+       xlink:href="#linearGradient6016-2"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-32"
+       x2="23.413094"
+       y1="-32"
+       x1="20"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3520"
+       xlink:href="#linearGradient5984-8"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-32"
+       x2="63.413094"
+       y1="-32"
+       x1="60"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3518"
+       xlink:href="#linearGradient5984-8"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-32"
+       x2="59.413094"
+       y1="-32"
+       x1="56"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3516"
+       xlink:href="#linearGradient5984-8"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-32"
+       x2="55.413094"
+       y1="-32"
+       x1="52"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3514"
+       xlink:href="#linearGradient5984-8"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-32"
+       x2="51.413094"
+       y1="-32"
+       x1="48"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3512"
+       xlink:href="#linearGradient5984-8"
+       inkscape:collect="always" />
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Gives a pointillist HSL sensitive transparency"
+       inkscape:menu="Image effects, transparent"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       inkscape:label="Dots transparency"
+       id="filter5610">
+      <feTurbulence
+         seed="50"
+         type="fractalNoise"
+         baseFrequency="1"
+         numOctaves="3"
+         result="result1"
+         id="feTurbulence5612" />
+      <feColorMatrix
+         type="luminanceToAlpha"
+         in="SourceGraphic"
+         result="result0"
+         id="feColorMatrix5614" />
+      <feColorMatrix
+         result="result2"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.7 0 "
+         id="feColorMatrix5616" />
+      <feComposite
+         result="result3"
+         operator="over"
+         in="result1"
+         in2="result2"
+         id="feComposite5618" />
+      <feColorMatrix
+         result="result91"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -3.2 "
+         id="feColorMatrix5620" />
+      <feComposite
+         result="result4"
+         in="SourceGraphic"
+         operator="out"
+         in2="result91"
+         id="feComposite5622" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Gives a pointillist HSL sensitive transparency"
+       inkscape:menu="Image effects, transparent"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       inkscape:label="Dots transparency"
+       id="filter5596">
+      <feTurbulence
+         seed="50"
+         type="fractalNoise"
+         baseFrequency="1"
+         numOctaves="3"
+         result="result1"
+         id="feTurbulence5598" />
+      <feColorMatrix
+         type="luminanceToAlpha"
+         in="SourceGraphic"
+         result="result0"
+         id="feColorMatrix5600" />
+      <feColorMatrix
+         result="result2"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.7 0 "
+         id="feColorMatrix5602" />
+      <feComposite
+         result="result3"
+         operator="over"
+         in="result1"
+         in2="result2"
+         id="feComposite5604" />
+      <feColorMatrix
+         result="result91"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -3.2 "
+         id="feColorMatrix5606" />
+      <feComposite
+         result="result4"
+         in="SourceGraphic"
+         operator="out"
+         in2="result91"
+         id="feComposite5608" />
+    </filter>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-32"
+       x2="23.413094"
+       y1="-32"
+       x1="20"
+       id="linearGradient5590"
+       xlink:href="#linearGradient6016-2"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-32"
+       x2="27.413094"
+       y1="-32"
+       x1="24"
+       id="linearGradient5588"
+       xlink:href="#linearGradient6016-2"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-32"
+       x2="31.413094"
+       y1="-32"
+       x1="28"
+       id="linearGradient5586"
+       xlink:href="#linearGradient6016-2"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-32"
+       x2="35.413094"
+       y1="-32"
+       x1="32"
+       id="linearGradient5584"
+       xlink:href="#linearGradient6016-2"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-32"
+       x2="39.413094"
+       y1="-32"
+       x1="36"
+       id="linearGradient5582"
+       xlink:href="#linearGradient6016-2"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-32"
+       x2="43.413094"
+       y1="-32"
+       x1="40"
+       id="linearGradient5580"
+       xlink:href="#linearGradient6016-2"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-32"
+       x2="43.413094"
+       y1="-32"
+       x1="40"
+       id="linearGradient5572"
+       xlink:href="#linearGradient5984-8"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-32"
+       x2="39.413094"
+       y1="-32"
+       x1="36"
+       id="linearGradient5570"
+       xlink:href="#linearGradient5984-8"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-32"
+       x2="35.413094"
+       y1="-32"
+       x1="32"
+       id="linearGradient5568"
+       xlink:href="#linearGradient5984-8"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-32"
+       x2="31.413094"
+       y1="-32"
+       x1="28"
+       id="linearGradient5566"
+       xlink:href="#linearGradient5984-8"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-32"
+       x2="27.413094"
+       y1="-32"
+       x1="24"
+       id="linearGradient5564"
+       xlink:href="#linearGradient5984-8"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-32"
+       x2="23.413094"
+       y1="-32"
+       x1="20"
+       id="linearGradient5562"
+       xlink:href="#linearGradient5984-8"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-32"
+       x2="47.413094"
+       y1="-32"
+       x1="44"
+       id="linearGradient5542"
+       xlink:href="#linearGradient5984-8"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-32"
+       x2="19.413094"
+       y1="-32"
+       x1="16"
+       id="linearGradient5540"
+       xlink:href="#linearGradient5984-8"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-32"
+       x2="15.413094"
+       y1="-32"
+       x1="12"
+       id="linearGradient5538"
+       xlink:href="#linearGradient5984-8"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-32"
+       x2="11.413094"
+       y1="-32"
+       x1="8"
+       id="linearGradient5536"
+       xlink:href="#linearGradient5984-8"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-32"
+       x2="7.4130945"
+       y1="-32"
+       x1="4"
+       id="linearGradient5534"
+       xlink:href="#linearGradient5984-8"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-32"
+       x2="3.4130943"
+       y1="-32"
+       x1="0"
+       id="linearGradient5532"
+       xlink:href="#linearGradient5984-8"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-32"
+       x2="59.413094"
+       y1="-32"
+       x1="56"
+       id="linearGradient5524"
+       xlink:href="#linearGradient5984-8"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-32"
+       x2="63.413094"
+       y1="-32"
+       x1="60"
+       id="linearGradient5516"
+       xlink:href="#linearGradient5984-8"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-32"
+       x2="55.413094"
+       y1="-32"
+       x1="52"
+       id="linearGradient5514"
+       xlink:href="#linearGradient5984-8"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-32"
+       x2="51.413094"
+       y1="-32"
+       x1="48"
+       id="linearGradient5512"
+       xlink:href="#linearGradient5984-8"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientTransform="translate(-1.9768213,-92.431083)"
+       y2="-32"
+       x2="3.4130943"
+       y1="-32"
+       x1="0"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4699"
+       xlink:href="#linearGradient5984-8"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientTransform="translate(-1.9768213,-92.431083)"
+       y2="-32"
+       x2="7.4130945"
+       y1="-32"
+       x1="4"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4696"
+       xlink:href="#linearGradient5984-8"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientTransform="translate(-1.9768213,-92.431083)"
+       y2="-32"
+       x2="11.413094"
+       y1="-32"
+       x1="8"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4681"
+       xlink:href="#linearGradient5984-8"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="109.79786"
+       x2="4.0958132"
+       y1="109.79786"
+       x1="0.68271893"
+       gradientTransform="translate(61.43347,157.51065)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4644"
+       xlink:href="#linearGradient5984-8"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="109.79786"
+       x2="4.0958132"
+       y1="109.79786"
+       x1="0.68271893"
+       gradientTransform="translate(81.43347,157.50769)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4632"
+       xlink:href="#linearGradient5984-8"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="109.79786"
+       x2="24.095813"
+       y1="109.79786"
+       x1="20.682718"
+       gradientTransform="translate(61.43347,157.51065)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4629"
+       xlink:href="#linearGradient6016-2"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="109.79786"
+       x2="4.0958132"
+       y1="109.79786"
+       x1="0.68271893"
+       gradientTransform="translate(65.43347,157.51006)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4505"
+       xlink:href="#linearGradient5984-8"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="109.79786"
+       x2="4.0958132"
+       y1="109.79786"
+       x1="0.68271893"
+       gradientTransform="translate(69.43347,157.50947)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4502"
+       xlink:href="#linearGradient5984-8"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="109.79786"
+       x2="4.0958132"
+       y1="109.79786"
+       x1="0.68271893"
+       gradientTransform="translate(73.43347,157.50888)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4499"
+       xlink:href="#linearGradient5984-8"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="109.79786"
+       x2="4.0958132"
+       y1="109.79786"
+       x1="0.68271893"
+       gradientTransform="translate(77.43347,157.50828)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4496"
+       xlink:href="#linearGradient5984-8"
+       inkscape:collect="always" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_1-4"
+       id="pattern7661-4"
+       patternTransform="matrix(1.5824905,1.1052773,-4.3860169,6.2797183,0.83027026,12)" />
+    <pattern
+       inkscape:stockid="Stripes 1:1"
+       id="Strips1_1-4"
+       patternTransform="translate(0,0) scale(10,10)"
+       height="1"
+       width="2"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <rect
+         id="rect6912-6"
+         height="2"
+         width="1"
+         y="-0.5"
+         x="0"
+         style="fill:black;stroke:none" />
+    </pattern>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-32"
+       x2="28.195082"
+       y1="-32"
+       x1="24.099367"
+       id="linearGradient6034-0"
+       xlink:href="#linearGradient6016-2"
+       inkscape:collect="always" />
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Basic specular bevel to use for building textures"
+       inkscape:menu="Bevels"
+       inkscape:label="Combined lighting"
+       id="filter5897-9">
+      <feGaussianBlur
+         result="result0"
+         in="SourceGraphic"
+         stdDeviation="6"
+         id="feGaussianBlur5899-0" />
+      <feDiffuseLighting
+         result="result5"
+         surfaceScale="4"
+         diffuseConstant="1"
+         lighting-color="rgb(255,255,255)"
+         id="feDiffuseLighting5901-5">
+        <feDistantLight
+           azimuth="235"
+           elevation="45"
+           id="feDistantLight5903-6" />
+      </feDiffuseLighting>
+      <feComposite
+         operator="arithmetic"
+         result="fbSourceGraphic"
+         in="result5"
+         k1="1.4"
+         in2="SourceGraphic"
+         id="feComposite5905-3" />
+      <feGaussianBlur
+         stdDeviation="6"
+         in="fbSourceGraphic"
+         result="result0"
+         id="feGaussianBlur5907-6" />
+      <feSpecularLighting
+         in="result0"
+         result="result1"
+         lighting-color="rgb(255,255,255)"
+         surfaceScale="4"
+         specularConstant="1"
+         specularExponent="25"
+         id="feSpecularLighting5909-3">
+        <feDistantLight
+           elevation="45"
+           azimuth="235"
+           id="feDistantLight5911-0" />
+      </feSpecularLighting>
+      <feComposite
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="result1"
+         id="feComposite5913-8" />
+      <feComposite
+         in="result4"
+         result="result2"
+         operator="in"
+         in2="SourceGraphic"
+         id="feComposite5915-4" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Basic specular bevel to use for building textures"
+       inkscape:menu="Bevels"
+       inkscape:label="Combined lighting"
+       id="filter5877-0">
+      <feGaussianBlur
+         result="result0"
+         in="SourceGraphic"
+         stdDeviation="6"
+         id="feGaussianBlur5879-9" />
+      <feDiffuseLighting
+         result="result5"
+         surfaceScale="4"
+         diffuseConstant="1"
+         lighting-color="rgb(255,255,255)"
+         id="feDiffuseLighting5881-5">
+        <feDistantLight
+           azimuth="235"
+           elevation="45"
+           id="feDistantLight5883-6" />
+      </feDiffuseLighting>
+      <feComposite
+         operator="arithmetic"
+         result="fbSourceGraphic"
+         in="result5"
+         k1="1.4"
+         in2="SourceGraphic"
+         id="feComposite5885-2" />
+      <feGaussianBlur
+         stdDeviation="6"
+         in="fbSourceGraphic"
+         result="result0"
+         id="feGaussianBlur5887-8" />
+      <feSpecularLighting
+         in="result0"
+         result="result1"
+         lighting-color="rgb(255,255,255)"
+         surfaceScale="4"
+         specularConstant="1"
+         specularExponent="25"
+         id="feSpecularLighting5889-5">
+        <feDistantLight
+           elevation="45"
+           azimuth="235"
+           id="feDistantLight5891-9" />
+      </feSpecularLighting>
+      <feComposite
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="result1"
+         id="feComposite5893-4" />
+      <feComposite
+         in="result4"
+         result="result2"
+         operator="in"
+         in2="SourceGraphic"
+         id="feComposite5895-3" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Basic specular bevel to use for building textures"
+       inkscape:menu="Bevels"
+       inkscape:label="Combined lighting"
+       id="filter5857-5">
+      <feGaussianBlur
+         result="result0"
+         in="SourceGraphic"
+         stdDeviation="6"
+         id="feGaussianBlur5859-2" />
+      <feDiffuseLighting
+         result="result5"
+         surfaceScale="4"
+         diffuseConstant="1"
+         lighting-color="rgb(255,255,255)"
+         id="feDiffuseLighting5861-1">
+        <feDistantLight
+           azimuth="235"
+           elevation="45"
+           id="feDistantLight5863-1" />
+      </feDiffuseLighting>
+      <feComposite
+         operator="arithmetic"
+         result="fbSourceGraphic"
+         in="result5"
+         k1="1.4"
+         in2="SourceGraphic"
+         id="feComposite5865-0" />
+      <feGaussianBlur
+         stdDeviation="6"
+         in="fbSourceGraphic"
+         result="result0"
+         id="feGaussianBlur5867-1" />
+      <feSpecularLighting
+         in="result0"
+         result="result1"
+         lighting-color="rgb(255,255,255)"
+         surfaceScale="4"
+         specularConstant="1"
+         specularExponent="25"
+         id="feSpecularLighting5869-8">
+        <feDistantLight
+           elevation="45"
+           azimuth="235"
+           id="feDistantLight5871-7" />
+      </feSpecularLighting>
+      <feComposite
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="result1"
+         id="feComposite5873-6" />
+      <feComposite
+         in="result4"
+         result="result2"
+         operator="in"
+         in2="SourceGraphic"
+         id="feComposite5875-0" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Basic specular bevel to use for building textures"
+       inkscape:menu="Bevels"
+       inkscape:label="Combined lighting"
+       id="filter5837-3">
+      <feGaussianBlur
+         result="result0"
+         in="SourceGraphic"
+         stdDeviation="6"
+         id="feGaussianBlur5839-0" />
+      <feDiffuseLighting
+         result="result5"
+         surfaceScale="4"
+         diffuseConstant="1"
+         lighting-color="rgb(255,255,255)"
+         id="feDiffuseLighting5841-6">
+        <feDistantLight
+           azimuth="235"
+           elevation="45"
+           id="feDistantLight5843-2" />
+      </feDiffuseLighting>
+      <feComposite
+         operator="arithmetic"
+         result="fbSourceGraphic"
+         in="result5"
+         k1="1.4"
+         in2="SourceGraphic"
+         id="feComposite5845-2" />
+      <feGaussianBlur
+         stdDeviation="6"
+         in="fbSourceGraphic"
+         result="result0"
+         id="feGaussianBlur5847-5" />
+      <feSpecularLighting
+         in="result0"
+         result="result1"
+         lighting-color="rgb(255,255,255)"
+         surfaceScale="4"
+         specularConstant="1"
+         specularExponent="25"
+         id="feSpecularLighting5849-2">
+        <feDistantLight
+           elevation="45"
+           azimuth="235"
+           id="feDistantLight5851-2" />
+      </feSpecularLighting>
+      <feComposite
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="result1"
+         id="feComposite5853-7" />
+      <feComposite
+         in="result4"
+         result="result2"
+         operator="in"
+         in2="SourceGraphic"
+         id="feComposite5855-1" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Basic specular bevel to use for building textures"
+       inkscape:menu="Bevels"
+       inkscape:label="Combined lighting"
+       id="filter5817-2">
+      <feGaussianBlur
+         result="result0"
+         in="SourceGraphic"
+         stdDeviation="6"
+         id="feGaussianBlur5819-9" />
+      <feDiffuseLighting
+         result="result5"
+         surfaceScale="4"
+         diffuseConstant="1"
+         lighting-color="rgb(255,255,255)"
+         id="feDiffuseLighting5821-8">
+        <feDistantLight
+           azimuth="235"
+           elevation="45"
+           id="feDistantLight5823-2" />
+      </feDiffuseLighting>
+      <feComposite
+         operator="arithmetic"
+         result="fbSourceGraphic"
+         in="result5"
+         k1="1.4"
+         in2="SourceGraphic"
+         id="feComposite5825-0" />
+      <feGaussianBlur
+         stdDeviation="6"
+         in="fbSourceGraphic"
+         result="result0"
+         id="feGaussianBlur5827-7" />
+      <feSpecularLighting
+         in="result0"
+         result="result1"
+         lighting-color="rgb(255,255,255)"
+         surfaceScale="4"
+         specularConstant="1"
+         specularExponent="25"
+         id="feSpecularLighting5829-4">
+        <feDistantLight
+           elevation="45"
+           azimuth="235"
+           id="feDistantLight5831-8" />
+      </feSpecularLighting>
+      <feComposite
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="result1"
+         id="feComposite5833-5" />
+      <feComposite
+         in="result4"
+         result="result2"
+         operator="in"
+         in2="SourceGraphic"
+         id="feComposite5835-8" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.5"
+       width="1.5"
+       y="-0.25"
+       x="-0.25"
+       inkscape:menu-tooltip="Bubble effect with refraction and glow"
+       inkscape:menu="Ridges"
+       inkscape:label="Glowing bubble"
+       id="filter4943-8">
+      <feGaussianBlur
+         result="result1"
+         stdDeviation="1"
+         id="feGaussianBlur4945-7" />
+      <feGaussianBlur
+         in="result1"
+         result="result6"
+         stdDeviation="10"
+         id="feGaussianBlur4947-8" />
+      <feComposite
+         result="result8"
+         in="result6"
+         operator="atop"
+         in2="result1"
+         id="feComposite4949-7" />
+      <feComposite
+         in="result6"
+         result="fbSourceGraphic"
+         operator="xor"
+         in2="result8"
+         id="feComposite4951-7" />
+      <feColorMatrix
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 2 0 "
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha"
+         id="feColorMatrix4953-4" />
+      <feGaussianBlur
+         stdDeviation="1"
+         in="fbSourceGraphicAlpha"
+         result="result0"
+         id="feGaussianBlur4955-4" />
+      <feSpecularLighting
+         in="result0"
+         result="result1"
+         lighting-color="rgb(255,255,255)"
+         surfaceScale="-2"
+         specularConstant="1.5"
+         specularExponent="35"
+         id="feSpecularLighting4957-9">
+        <feDistantLight
+           elevation="60"
+           azimuth="230"
+           id="feDistantLight4959-1" />
+      </feSpecularLighting>
+      <feComposite
+         in="result1"
+         result="result2"
+         operator="in"
+         in2="fbSourceGraphicAlpha"
+         id="feComposite4961-5" />
+      <feComposite
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="result2"
+         id="feComposite4963-5" />
+      <feComposite
+         result="result91"
+         in="result9"
+         operator="atop"
+         in2="result4"
+         id="feComposite4965-5" />
+      <feBlend
+         mode="multiply"
+         in2="result91"
+         id="feBlend4967-8" />
+    </filter>
+    <inkscape:perspective
+       id="perspective5958-1"
+       inkscape:persp3d-origin="189.51975 : -40.076803 : 1"
+       inkscape:vp_z="221.51975 : -29.410136 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="157.51975 : -29.410136 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       id="linearGradient5984-8">
+      <stop
+         id="stop5986-4"
+         offset="0"
+         style="stop-color:#1a1a1a;stop-opacity:1;" />
+      <stop
+         style="stop-color:#464646;stop-opacity:1;"
+         offset="0.5"
+         id="stop5992-1" />
+      <stop
+         id="stop5988-7"
+         offset="1"
+         style="stop-color:#1a1a1a;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6016-2">
+      <stop
+         id="stop6018-6"
+         offset="0"
+         style="stop-color:#ffcc00;stop-opacity:0.39215687;" />
+      <stop
+         style="stop-color:#ffcc00;stop-opacity:1;"
+         offset="0.5"
+         id="stop6024-6" />
+      <stop
+         id="stop6020-7"
+         offset="1"
+         style="stop-color:#ffcc00;stop-opacity:0.39215687;" />
+    </linearGradient>
+    <filter
+       id="filter5358-7"
+       inkscape:label="Combined lighting"
+       inkscape:menu="Bevels"
+       inkscape:menu-tooltip="Basic specular bevel to use for building textures"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur5360-5"
+         stdDeviation="6"
+         in="SourceGraphic"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting5362-5"
+         lighting-color="rgb(255,255,255)"
+         diffuseConstant="1"
+         surfaceScale="4"
+         result="result5">
+        <feDistantLight
+           id="feDistantLight5364-4"
+           elevation="45"
+           azimuth="235" />
+      </feDiffuseLighting>
+      <feComposite
+         id="feComposite5366-1"
+         in2="SourceGraphic"
+         k1="1.4"
+         in="result5"
+         result="fbSourceGraphic"
+         operator="arithmetic" />
+      <feGaussianBlur
+         id="feGaussianBlur5368-8"
+         result="result0"
+         in="fbSourceGraphic"
+         stdDeviation="6" />
+      <feSpecularLighting
+         id="feSpecularLighting5370-8"
+         specularExponent="25"
+         specularConstant="1"
+         surfaceScale="4"
+         lighting-color="rgb(255,255,255)"
+         result="result1"
+         in="result0">
+        <feDistantLight
+           id="feDistantLight5372-3"
+           azimuth="235"
+           elevation="45" />
+      </feSpecularLighting>
+      <feComposite
+         id="feComposite5374-5"
+         in2="result1"
+         k3="1"
+         k2="1"
+         operator="arithmetic"
+         result="result4"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite5376-2"
+         in2="SourceGraphic"
+         operator="in"
+         result="result2"
+         in="result4" />
+    </filter>
+    <filter
+       id="filter5378-1"
+       inkscape:label="Combined lighting"
+       inkscape:menu="Bevels"
+       inkscape:menu-tooltip="Basic specular bevel to use for building textures"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur5380-3"
+         stdDeviation="6"
+         in="SourceGraphic"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting5382-7"
+         lighting-color="rgb(255,255,255)"
+         diffuseConstant="1"
+         surfaceScale="4"
+         result="result5">
+        <feDistantLight
+           id="feDistantLight5384-8"
+           elevation="45"
+           azimuth="235" />
+      </feDiffuseLighting>
+      <feComposite
+         id="feComposite5386-8"
+         in2="SourceGraphic"
+         k1="1.4"
+         in="result5"
+         result="fbSourceGraphic"
+         operator="arithmetic" />
+      <feGaussianBlur
+         id="feGaussianBlur5388-3"
+         result="result0"
+         in="fbSourceGraphic"
+         stdDeviation="6" />
+      <feSpecularLighting
+         id="feSpecularLighting5390-8"
+         specularExponent="25"
+         specularConstant="1"
+         surfaceScale="4"
+         lighting-color="rgb(255,255,255)"
+         result="result1"
+         in="result0">
+        <feDistantLight
+           id="feDistantLight5392-1"
+           azimuth="235"
+           elevation="45" />
+      </feSpecularLighting>
+      <feComposite
+         id="feComposite5394-5"
+         in2="result1"
+         k3="1"
+         k2="1"
+         operator="arithmetic"
+         result="result4"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite5396-3"
+         in2="SourceGraphic"
+         operator="in"
+         result="fbSourceGraphic"
+         in="result4" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5462-5" />
+      <feGaussianBlur
+         id="feGaussianBlur5464-4"
+         stdDeviation="6"
+         in="fbSourceGraphic"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting5466-3"
+         lighting-color="rgb(255,255,255)"
+         diffuseConstant="1"
+         surfaceScale="4"
+         result="result5">
+        <feDistantLight
+           id="feDistantLight5468-6"
+           elevation="45"
+           azimuth="235" />
+      </feDiffuseLighting>
+      <feComposite
+         id="feComposite5470-5"
+         in2="fbSourceGraphic"
+         k1="1.4"
+         in="result5"
+         result="fbSourceGraphic"
+         operator="arithmetic" />
+      <feGaussianBlur
+         id="feGaussianBlur5472-9"
+         result="result0"
+         in="fbSourceGraphic"
+         stdDeviation="6" />
+      <feSpecularLighting
+         id="feSpecularLighting5474-5"
+         specularExponent="25"
+         specularConstant="1"
+         surfaceScale="4"
+         lighting-color="rgb(255,255,255)"
+         result="result1"
+         in="result0">
+        <feDistantLight
+           id="feDistantLight5476-4"
+           azimuth="235"
+           elevation="45" />
+      </feSpecularLighting>
+      <feComposite
+         id="feComposite5478-9"
+         in2="result1"
+         k3="1"
+         k2="1"
+         operator="arithmetic"
+         result="result4"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite5480-1"
+         in2="fbSourceGraphic"
+         operator="in"
+         result="result2"
+         in="result4" />
+    </filter>
+    <filter
+       id="filter5442-8"
+       inkscape:label="Combined lighting"
+       inkscape:menu="Bevels"
+       inkscape:menu-tooltip="Basic specular bevel to use for building textures"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur5444-0"
+         stdDeviation="6"
+         in="SourceGraphic"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting5446-4"
+         lighting-color="rgb(255,255,255)"
+         diffuseConstant="1"
+         surfaceScale="4"
+         result="result5">
+        <feDistantLight
+           id="feDistantLight5448-6"
+           elevation="45"
+           azimuth="235" />
+      </feDiffuseLighting>
+      <feComposite
+         id="feComposite5450-0"
+         in2="SourceGraphic"
+         k1="1.4"
+         in="result5"
+         result="fbSourceGraphic"
+         operator="arithmetic" />
+      <feGaussianBlur
+         id="feGaussianBlur5452-3"
+         result="result0"
+         in="fbSourceGraphic"
+         stdDeviation="6" />
+      <feSpecularLighting
+         id="feSpecularLighting5454-2"
+         specularExponent="25"
+         specularConstant="1"
+         surfaceScale="4"
+         lighting-color="rgb(255,255,255)"
+         result="result1"
+         in="result0">
+        <feDistantLight
+           id="feDistantLight5456-6"
+           azimuth="235"
+           elevation="45" />
+      </feSpecularLighting>
+      <feComposite
+         id="feComposite5458-9"
+         in2="result1"
+         k3="1"
+         k2="1"
+         operator="arithmetic"
+         result="result4"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite5460-4"
+         in2="SourceGraphic"
+         operator="in"
+         result="result2"
+         in="result4" />
+    </filter>
+    <filter
+       id="filter6032-1"
+       inkscape:label="Dots transparency"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Image effects, transparent"
+       inkscape:menu-tooltip="Gives a pointillist HSL sensitive transparency"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence6034-4"
+         result="result1"
+         numOctaves="3"
+         baseFrequency="1"
+         type="fractalNoise"
+         seed="50" />
+      <feColorMatrix
+         id="feColorMatrix6036-7"
+         result="result0"
+         in="SourceGraphic"
+         type="luminanceToAlpha" />
+      <feColorMatrix
+         id="feColorMatrix6038-1"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.7 0 "
+         result="result2" />
+      <feComposite
+         id="feComposite6040-3"
+         in2="result2"
+         in="result1"
+         operator="over"
+         result="result3" />
+      <feColorMatrix
+         id="feColorMatrix6042-8"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -3.2 "
+         result="result91" />
+      <feComposite
+         id="feComposite6044-4"
+         in2="result91"
+         operator="out"
+         in="SourceGraphic"
+         result="result4" />
+    </filter>
+    <filter
+       id="filter6048-7"
+       inkscape:label="Dots transparency"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Image effects, transparent"
+       inkscape:menu-tooltip="Gives a pointillist HSL sensitive transparency"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence6050-2"
+         result="result1"
+         numOctaves="3"
+         baseFrequency="1"
+         type="fractalNoise"
+         seed="50" />
+      <feColorMatrix
+         id="feColorMatrix6052-3"
+         result="result0"
+         in="SourceGraphic"
+         type="luminanceToAlpha" />
+      <feColorMatrix
+         id="feColorMatrix6054-6"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.7 0 "
+         result="result2" />
+      <feComposite
+         id="feComposite6056-5"
+         in2="result2"
+         in="result1"
+         operator="over"
+         result="result3" />
+      <feColorMatrix
+         id="feColorMatrix6058-5"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -3.2 "
+         result="result91" />
+      <feComposite
+         id="feComposite6060-8"
+         in2="result91"
+         operator="out"
+         in="SourceGraphic"
+         result="result4" />
+    </filter>
+    <pattern
+       patternTransform="matrix(-2.217283,1.7949025,2.6087961,3.2227039,-22.417297,34.012466)"
+       id="pattern5713"
+       xlink:href="#Strips1_1-4"
+       inkscape:collect="always" />
+    <pattern
+       patternTransform="matrix(-3.622661,2.3460505,1.6420284,2.5355431,-20.023911,-39.969195)"
+       id="pattern5717"
+       xlink:href="#pattern5713"
+       inkscape:collect="always" />
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Gives a pointillist HSL sensitive transparency"
+       inkscape:menu="Image effects, transparent"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       inkscape:label="Dots transparency"
+       id="filter6048-0">
+      <feTurbulence
+         seed="50"
+         type="fractalNoise"
+         baseFrequency="1"
+         numOctaves="3"
+         result="result1"
+         id="feTurbulence6050-6" />
+      <feColorMatrix
+         type="luminanceToAlpha"
+         in="SourceGraphic"
+         result="result0"
+         id="feColorMatrix6052-4" />
+      <feColorMatrix
+         result="result2"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.7 0 "
+         id="feColorMatrix6054-7" />
+      <feComposite
+         result="result3"
+         operator="over"
+         in="result1"
+         in2="result2"
+         id="feComposite6056-1" />
+      <feColorMatrix
+         result="result91"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -3.2 "
+         id="feColorMatrix6058-1" />
+      <feComposite
+         result="result4"
+         in="SourceGraphic"
+         operator="out"
+         in2="result91"
+         id="feComposite6060-85" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Gives a pointillist HSL sensitive transparency"
+       inkscape:menu="Image effects, transparent"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       inkscape:label="Dots transparency"
+       id="filter6032-0">
+      <feTurbulence
+         seed="50"
+         type="fractalNoise"
+         baseFrequency="1"
+         numOctaves="3"
+         result="result1"
+         id="feTurbulence6034-5" />
+      <feColorMatrix
+         type="luminanceToAlpha"
+         in="SourceGraphic"
+         result="result0"
+         id="feColorMatrix6036-6" />
+      <feColorMatrix
+         result="result2"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.7 0 "
+         id="feColorMatrix6038-4" />
+      <feComposite
+         result="result3"
+         operator="over"
+         in="result1"
+         in2="result2"
+         id="feComposite6040-5" />
+      <feColorMatrix
+         result="result91"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -3.2 "
+         id="feColorMatrix6042-2" />
+      <feComposite
+         result="result4"
+         in="SourceGraphic"
+         operator="out"
+         in2="result91"
+         id="feComposite6044-3" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Basic specular bevel to use for building textures"
+       inkscape:menu="Bevels"
+       inkscape:label="Combined lighting"
+       id="filter5442-9">
+      <feGaussianBlur
+         result="result0"
+         in="SourceGraphic"
+         stdDeviation="6"
+         id="feGaussianBlur5444-6" />
+      <feDiffuseLighting
+         result="result5"
+         surfaceScale="4"
+         diffuseConstant="1"
+         lighting-color="rgb(255,255,255)"
+         id="feDiffuseLighting5446-9">
+        <feDistantLight
+           azimuth="235"
+           elevation="45"
+           id="feDistantLight5448-0" />
+      </feDiffuseLighting>
+      <feComposite
+         operator="arithmetic"
+         result="fbSourceGraphic"
+         in="result5"
+         k1="1.4"
+         in2="SourceGraphic"
+         id="feComposite5450-5" />
+      <feGaussianBlur
+         stdDeviation="6"
+         in="fbSourceGraphic"
+         result="result0"
+         id="feGaussianBlur5452-7" />
+      <feSpecularLighting
+         in="result0"
+         result="result1"
+         lighting-color="rgb(255,255,255)"
+         surfaceScale="4"
+         specularConstant="1"
+         specularExponent="25"
+         id="feSpecularLighting5454-22">
+        <feDistantLight
+           elevation="45"
+           azimuth="235"
+           id="feDistantLight5456-0" />
+      </feSpecularLighting>
+      <feComposite
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="result1"
+         id="feComposite5458-1" />
+      <feComposite
+         in="result4"
+         result="result2"
+         operator="in"
+         in2="SourceGraphic"
+         id="feComposite5460-5" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Basic specular bevel to use for building textures"
+       inkscape:menu="Bevels"
+       inkscape:label="Combined lighting"
+       id="filter5378-2">
+      <feGaussianBlur
+         result="result0"
+         in="SourceGraphic"
+         stdDeviation="6"
+         id="feGaussianBlur5380-5" />
+      <feDiffuseLighting
+         result="result5"
+         surfaceScale="4"
+         diffuseConstant="1"
+         lighting-color="rgb(255,255,255)"
+         id="feDiffuseLighting5382-6">
+        <feDistantLight
+           azimuth="235"
+           elevation="45"
+           id="feDistantLight5384-4" />
+      </feDiffuseLighting>
+      <feComposite
+         operator="arithmetic"
+         result="fbSourceGraphic"
+         in="result5"
+         k1="1.4"
+         in2="SourceGraphic"
+         id="feComposite5386-80" />
+      <feGaussianBlur
+         stdDeviation="6"
+         in="fbSourceGraphic"
+         result="result0"
+         id="feGaussianBlur5388-1" />
+      <feSpecularLighting
+         in="result0"
+         result="result1"
+         lighting-color="rgb(255,255,255)"
+         surfaceScale="4"
+         specularConstant="1"
+         specularExponent="25"
+         id="feSpecularLighting5390-0">
+        <feDistantLight
+           elevation="45"
+           azimuth="235"
+           id="feDistantLight5392-5" />
+      </feSpecularLighting>
+      <feComposite
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="result1"
+         id="feComposite5394-4" />
+      <feComposite
+         in="result4"
+         result="fbSourceGraphic"
+         operator="in"
+         in2="SourceGraphic"
+         id="feComposite5396-2" />
+      <feColorMatrix
+         id="feColorMatrix5462-6"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feGaussianBlur
+         result="result0"
+         in="fbSourceGraphic"
+         stdDeviation="6"
+         id="feGaussianBlur5464-7" />
+      <feDiffuseLighting
+         result="result5"
+         surfaceScale="4"
+         diffuseConstant="1"
+         lighting-color="rgb(255,255,255)"
+         id="feDiffuseLighting5466-9">
+        <feDistantLight
+           azimuth="235"
+           elevation="45"
+           id="feDistantLight5468-5" />
+      </feDiffuseLighting>
+      <feComposite
+         operator="arithmetic"
+         result="fbSourceGraphic"
+         in="result5"
+         k1="1.4"
+         in2="fbSourceGraphic"
+         id="feComposite5470-9" />
+      <feGaussianBlur
+         stdDeviation="6"
+         in="fbSourceGraphic"
+         result="result0"
+         id="feGaussianBlur5472-1" />
+      <feSpecularLighting
+         in="result0"
+         result="result1"
+         lighting-color="rgb(255,255,255)"
+         surfaceScale="4"
+         specularConstant="1"
+         specularExponent="25"
+         id="feSpecularLighting5474-0">
+        <feDistantLight
+           elevation="45"
+           azimuth="235"
+           id="feDistantLight5476-8" />
+      </feSpecularLighting>
+      <feComposite
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="result1"
+         id="feComposite5478-99" />
+      <feComposite
+         in="result4"
+         result="result2"
+         operator="in"
+         in2="fbSourceGraphic"
+         id="feComposite5480-7" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Basic specular bevel to use for building textures"
+       inkscape:menu="Bevels"
+       inkscape:label="Combined lighting"
+       id="filter5358-3">
+      <feGaussianBlur
+         result="result0"
+         in="SourceGraphic"
+         stdDeviation="6"
+         id="feGaussianBlur5360-6" />
+      <feDiffuseLighting
+         result="result5"
+         surfaceScale="4"
+         diffuseConstant="1"
+         lighting-color="rgb(255,255,255)"
+         id="feDiffuseLighting5362-6">
+        <feDistantLight
+           azimuth="235"
+           elevation="45"
+           id="feDistantLight5364-5" />
+      </feDiffuseLighting>
+      <feComposite
+         operator="arithmetic"
+         result="fbSourceGraphic"
+         in="result5"
+         k1="1.4"
+         in2="SourceGraphic"
+         id="feComposite5366-4" />
+      <feGaussianBlur
+         stdDeviation="6"
+         in="fbSourceGraphic"
+         result="result0"
+         id="feGaussianBlur5368-2" />
+      <feSpecularLighting
+         in="result0"
+         result="result1"
+         lighting-color="rgb(255,255,255)"
+         surfaceScale="4"
+         specularConstant="1"
+         specularExponent="25"
+         id="feSpecularLighting5370-3">
+        <feDistantLight
+           elevation="45"
+           azimuth="235"
+           id="feDistantLight5372-1" />
+      </feSpecularLighting>
+      <feComposite
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="result1"
+         id="feComposite5374-2" />
+      <feComposite
+         in="result4"
+         result="result2"
+         operator="in"
+         in2="SourceGraphic"
+         id="feComposite5376-1" />
+    </filter>
+    <linearGradient
+       id="linearGradient6016-0">
+      <stop
+         style="stop-color:#ffcc00;stop-opacity:0.39215687;"
+         offset="0"
+         id="stop6018-2" />
+      <stop
+         id="stop6024-2"
+         offset="0.5"
+         style="stop-color:#ffcc00;stop-opacity:1;" />
+      <stop
+         style="stop-color:#ffcc00;stop-opacity:0.39215687;"
+         offset="1"
+         id="stop6020-9" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5984-7">
+      <stop
+         style="stop-color:#1a1a1a;stop-opacity:1;"
+         offset="0"
+         id="stop5986-8" />
+      <stop
+         id="stop5992-0"
+         offset="0.5"
+         style="stop-color:#464646;stop-opacity:1;" />
+      <stop
+         style="stop-color:#1a1a1a;stop-opacity:1;"
+         offset="1"
+         id="stop5988-3" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="41.641463 : 31.248811 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="105.64147 : 31.248811 : 1"
+       inkscape:persp3d-origin="73.641463 : 20.582144 : 1"
+       id="perspective5958-2" />
+    <filter
+       id="filter4943-0"
+       inkscape:label="Glowing bubble"
+       inkscape:menu="Ridges"
+       inkscape:menu-tooltip="Bubble effect with refraction and glow"
+       x="-0.25"
+       y="-0.25"
+       width="1.5"
+       height="1.5"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur4945-3"
+         stdDeviation="1"
+         result="result1" />
+      <feGaussianBlur
+         id="feGaussianBlur4947-3"
+         stdDeviation="10"
+         result="result6"
+         in="result1" />
+      <feComposite
+         id="feComposite4949-7-9"
+         in2="result1"
+         operator="atop"
+         in="result6"
+         result="result8" />
+      <feComposite
+         id="feComposite4951-7-8"
+         in2="result8"
+         operator="xor"
+         result="fbSourceGraphic"
+         in="result6" />
+      <feColorMatrix
+         id="feColorMatrix4953-7"
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 2 0 " />
+      <feGaussianBlur
+         id="feGaussianBlur4955-9"
+         result="result0"
+         in="fbSourceGraphicAlpha"
+         stdDeviation="1" />
+      <feSpecularLighting
+         id="feSpecularLighting4957-6"
+         specularExponent="35"
+         specularConstant="1.5"
+         surfaceScale="-2"
+         lighting-color="rgb(255,255,255)"
+         result="result1"
+         in="result0">
+        <feDistantLight
+           id="feDistantLight4959-4"
+           azimuth="230"
+           elevation="60" />
+      </feSpecularLighting>
+      <feComposite
+         id="feComposite4961-5-0"
+         in2="fbSourceGraphicAlpha"
+         operator="in"
+         result="result2"
+         in="result1" />
+      <feComposite
+         id="feComposite4963-7"
+         in2="result2"
+         k3="1"
+         k2="1"
+         operator="arithmetic"
+         result="result4"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite4965-2"
+         in2="result4"
+         operator="atop"
+         in="result9"
+         result="result91" />
+      <feBlend
+         id="feBlend4967-9"
+         in2="result91"
+         mode="multiply" />
+    </filter>
+    <filter
+       id="filter5817-5"
+       inkscape:label="Combined lighting"
+       inkscape:menu="Bevels"
+       inkscape:menu-tooltip="Basic specular bevel to use for building textures"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur5819-6"
+         stdDeviation="6"
+         in="SourceGraphic"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting5821-8-6"
+         lighting-color="rgb(255,255,255)"
+         diffuseConstant="1"
+         surfaceScale="4"
+         result="result5">
+        <feDistantLight
+           id="feDistantLight5823-8"
+           elevation="45"
+           azimuth="235" />
+      </feDiffuseLighting>
+      <feComposite
+         id="feComposite5825-4"
+         in2="SourceGraphic"
+         k1="1.4"
+         in="result5"
+         result="fbSourceGraphic"
+         operator="arithmetic" />
+      <feGaussianBlur
+         id="feGaussianBlur5827-0"
+         result="result0"
+         in="fbSourceGraphic"
+         stdDeviation="6" />
+      <feSpecularLighting
+         id="feSpecularLighting5829-2"
+         specularExponent="25"
+         specularConstant="1"
+         surfaceScale="4"
+         lighting-color="rgb(255,255,255)"
+         result="result1"
+         in="result0">
+        <feDistantLight
+           id="feDistantLight5831-1"
+           azimuth="235"
+           elevation="45" />
+      </feSpecularLighting>
+      <feComposite
+         id="feComposite5833-4"
+         in2="result1"
+         k3="1"
+         k2="1"
+         operator="arithmetic"
+         result="result4"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite5835-5"
+         in2="SourceGraphic"
+         operator="in"
+         result="result2"
+         in="result4" />
+    </filter>
+    <filter
+       id="filter5837-5"
+       inkscape:label="Combined lighting"
+       inkscape:menu="Bevels"
+       inkscape:menu-tooltip="Basic specular bevel to use for building textures"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur5839-2"
+         stdDeviation="6"
+         in="SourceGraphic"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting5841-0"
+         lighting-color="rgb(255,255,255)"
+         diffuseConstant="1"
+         surfaceScale="4"
+         result="result5">
+        <feDistantLight
+           id="feDistantLight5843-6"
+           elevation="45"
+           azimuth="235" />
+      </feDiffuseLighting>
+      <feComposite
+         id="feComposite5845-5"
+         in2="SourceGraphic"
+         k1="1.4"
+         in="result5"
+         result="fbSourceGraphic"
+         operator="arithmetic" />
+      <feGaussianBlur
+         id="feGaussianBlur5847-4"
+         result="result0"
+         in="fbSourceGraphic"
+         stdDeviation="6" />
+      <feSpecularLighting
+         id="feSpecularLighting5849-8"
+         specularExponent="25"
+         specularConstant="1"
+         surfaceScale="4"
+         lighting-color="rgb(255,255,255)"
+         result="result1"
+         in="result0">
+        <feDistantLight
+           id="feDistantLight5851-5"
+           azimuth="235"
+           elevation="45" />
+      </feSpecularLighting>
+      <feComposite
+         id="feComposite5853-4"
+         in2="result1"
+         k3="1"
+         k2="1"
+         operator="arithmetic"
+         result="result4"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite5855-4"
+         in2="SourceGraphic"
+         operator="in"
+         result="result2"
+         in="result4" />
+    </filter>
+    <filter
+       id="filter5857-3"
+       inkscape:label="Combined lighting"
+       inkscape:menu="Bevels"
+       inkscape:menu-tooltip="Basic specular bevel to use for building textures"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur5859-1"
+         stdDeviation="6"
+         in="SourceGraphic"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting5861-7"
+         lighting-color="rgb(255,255,255)"
+         diffuseConstant="1"
+         surfaceScale="4"
+         result="result5">
+        <feDistantLight
+           id="feDistantLight5863-7"
+           elevation="45"
+           azimuth="235" />
+      </feDiffuseLighting>
+      <feComposite
+         id="feComposite5865-5"
+         in2="SourceGraphic"
+         k1="1.4"
+         in="result5"
+         result="fbSourceGraphic"
+         operator="arithmetic" />
+      <feGaussianBlur
+         id="feGaussianBlur5867-6"
+         result="result0"
+         in="fbSourceGraphic"
+         stdDeviation="6" />
+      <feSpecularLighting
+         id="feSpecularLighting5869-4"
+         specularExponent="25"
+         specularConstant="1"
+         surfaceScale="4"
+         lighting-color="rgb(255,255,255)"
+         result="result1"
+         in="result0">
+        <feDistantLight
+           id="feDistantLight5871-9"
+           azimuth="235"
+           elevation="45" />
+      </feSpecularLighting>
+      <feComposite
+         id="feComposite5873-3"
+         in2="result1"
+         k3="1"
+         k2="1"
+         operator="arithmetic"
+         result="result4"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite5875-8"
+         in2="SourceGraphic"
+         operator="in"
+         result="result2"
+         in="result4" />
+    </filter>
+    <filter
+       id="filter5877-1"
+       inkscape:label="Combined lighting"
+       inkscape:menu="Bevels"
+       inkscape:menu-tooltip="Basic specular bevel to use for building textures"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur5879-5"
+         stdDeviation="6"
+         in="SourceGraphic"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting5881-7"
+         lighting-color="rgb(255,255,255)"
+         diffuseConstant="1"
+         surfaceScale="4"
+         result="result5">
+        <feDistantLight
+           id="feDistantLight5883-4"
+           elevation="45"
+           azimuth="235" />
+      </feDiffuseLighting>
+      <feComposite
+         id="feComposite5885-0"
+         in2="SourceGraphic"
+         k1="1.4"
+         in="result5"
+         result="fbSourceGraphic"
+         operator="arithmetic" />
+      <feGaussianBlur
+         id="feGaussianBlur5887-9"
+         result="result0"
+         in="fbSourceGraphic"
+         stdDeviation="6" />
+      <feSpecularLighting
+         id="feSpecularLighting5889-1"
+         specularExponent="25"
+         specularConstant="1"
+         surfaceScale="4"
+         lighting-color="rgb(255,255,255)"
+         result="result1"
+         in="result0">
+        <feDistantLight
+           id="feDistantLight5891-9-9"
+           azimuth="235"
+           elevation="45" />
+      </feSpecularLighting>
+      <feComposite
+         id="feComposite5893-1"
+         in2="result1"
+         k3="1"
+         k2="1"
+         operator="arithmetic"
+         result="result4"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite5895-2"
+         in2="SourceGraphic"
+         operator="in"
+         result="result2"
+         in="result4" />
+    </filter>
+    <filter
+       id="filter5897-8"
+       inkscape:label="Combined lighting"
+       inkscape:menu="Bevels"
+       inkscape:menu-tooltip="Basic specular bevel to use for building textures"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur5899-1"
+         stdDeviation="6"
+         in="SourceGraphic"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting5901-6"
+         lighting-color="rgb(255,255,255)"
+         diffuseConstant="1"
+         surfaceScale="4"
+         result="result5">
+        <feDistantLight
+           id="feDistantLight5903-0"
+           elevation="45"
+           azimuth="235" />
+      </feDiffuseLighting>
+      <feComposite
+         id="feComposite5905-2"
+         in2="SourceGraphic"
+         k1="1.4"
+         in="result5"
+         result="fbSourceGraphic"
+         operator="arithmetic" />
+      <feGaussianBlur
+         id="feGaussianBlur5907-5"
+         result="result0"
+         in="fbSourceGraphic"
+         stdDeviation="6" />
+      <feSpecularLighting
+         id="feSpecularLighting5909-2"
+         specularExponent="25"
+         specularConstant="1"
+         surfaceScale="4"
+         lighting-color="rgb(255,255,255)"
+         result="result1"
+         in="result0">
+        <feDistantLight
+           id="feDistantLight5911-5"
+           azimuth="235"
+           elevation="45" />
+      </feSpecularLighting>
+      <feComposite
+         id="feComposite5913-5"
+         in2="result1"
+         k3="1"
+         k2="1"
+         operator="arithmetic"
+         result="result4"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite5915-5"
+         in2="SourceGraphic"
+         operator="in"
+         result="result2"
+         in="result4" />
+    </filter>
+    <filter
+       id="filter5596-4"
+       inkscape:label="Dots transparency"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Image effects, transparent"
+       inkscape:menu-tooltip="Gives a pointillist HSL sensitive transparency"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence5598-7"
+         result="result1"
+         numOctaves="3"
+         baseFrequency="1"
+         type="fractalNoise"
+         seed="50" />
+      <feColorMatrix
+         id="feColorMatrix5600-7"
+         result="result0"
+         in="SourceGraphic"
+         type="luminanceToAlpha" />
+      <feColorMatrix
+         id="feColorMatrix5602-3"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.7 0 "
+         result="result2" />
+      <feComposite
+         id="feComposite5604-1"
+         in2="result2"
+         in="result1"
+         operator="over"
+         result="result3" />
+      <feColorMatrix
+         id="feColorMatrix5606-7"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -3.2 "
+         result="result91" />
+      <feComposite
+         id="feComposite5608-4"
+         in2="result91"
+         operator="out"
+         in="SourceGraphic"
+         result="result4" />
+    </filter>
+    <filter
+       id="filter5610-9"
+       inkscape:label="Dots transparency"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Image effects, transparent"
+       inkscape:menu-tooltip="Gives a pointillist HSL sensitive transparency"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence5612-2"
+         result="result1"
+         numOctaves="3"
+         baseFrequency="1"
+         type="fractalNoise"
+         seed="50" />
+      <feColorMatrix
+         id="feColorMatrix5614-4"
+         result="result0"
+         in="SourceGraphic"
+         type="luminanceToAlpha" />
+      <feColorMatrix
+         id="feColorMatrix5616-8"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.7 0 "
+         result="result2" />
+      <feComposite
+         id="feComposite5618-3"
+         in2="result2"
+         in="result1"
+         operator="over"
+         result="result3" />
+      <feColorMatrix
+         id="feColorMatrix5620-9"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -3.2 "
+         result="result91" />
+      <feComposite
+         id="feComposite5622-6"
+         in2="result91"
+         operator="out"
+         in="SourceGraphic"
+         result="result4" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Gives a pointillist HSL sensitive transparency"
+       inkscape:menu="Image effects, transparent"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       inkscape:label="Dots transparency"
+       id="filter6366">
+      <feTurbulence
+         seed="50"
+         type="fractalNoise"
+         baseFrequency="1"
+         numOctaves="3"
+         result="result1"
+         id="feTurbulence6368" />
+      <feColorMatrix
+         type="luminanceToAlpha"
+         in="SourceGraphic"
+         result="result0"
+         id="feColorMatrix6370" />
+      <feColorMatrix
+         result="result2"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.7 0 "
+         id="feColorMatrix6372" />
+      <feComposite
+         result="result3"
+         operator="over"
+         in="result1"
+         in2="result2"
+         id="feComposite6374" />
+      <feColorMatrix
+         result="result91"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -3.2 "
+         id="feColorMatrix6376" />
+      <feComposite
+         result="result4"
+         in="SourceGraphic"
+         operator="out"
+         in2="result91"
+         id="feComposite6378" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Gives a pointillist HSL sensitive transparency"
+       inkscape:menu="Image effects, transparent"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       inkscape:label="Dots transparency"
+       id="filter6336">
+      <feTurbulence
+         seed="50"
+         type="fractalNoise"
+         baseFrequency="1"
+         numOctaves="3"
+         result="result1"
+         id="feTurbulence6338" />
+      <feColorMatrix
+         type="luminanceToAlpha"
+         in="SourceGraphic"
+         result="result0"
+         id="feColorMatrix6340" />
+      <feColorMatrix
+         result="result2"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.7 0 "
+         id="feColorMatrix6342" />
+      <feComposite
+         result="result3"
+         operator="over"
+         in="result1"
+         in2="result2"
+         id="feComposite6344" />
+      <feColorMatrix
+         result="result91"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -3.2 "
+         id="feColorMatrix6346" />
+      <feComposite
+         result="result4"
+         in="SourceGraphic"
+         operator="out"
+         in2="result91"
+         id="feComposite6348" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Gives a pointillist HSL sensitive transparency"
+       inkscape:menu="Image effects, transparent"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       inkscape:label="Dots transparency"
+       id="filter6320">
+      <feTurbulence
+         seed="50"
+         type="fractalNoise"
+         baseFrequency="1"
+         numOctaves="3"
+         result="result1"
+         id="feTurbulence6322" />
+      <feColorMatrix
+         type="luminanceToAlpha"
+         in="SourceGraphic"
+         result="result0"
+         id="feColorMatrix6324" />
+      <feColorMatrix
+         result="result2"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.7 0 "
+         id="feColorMatrix6326" />
+      <feComposite
+         result="result3"
+         operator="over"
+         in="result1"
+         in2="result2"
+         id="feComposite6328" />
+      <feColorMatrix
+         result="result91"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -3.2 "
+         id="feColorMatrix6330" />
+      <feComposite
+         result="result4"
+         in="SourceGraphic"
+         operator="out"
+         in2="result91"
+         id="feComposite6332" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Gives a pointillist HSL sensitive transparency"
+       inkscape:menu="Image effects, transparent"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       inkscape:label="Dots transparency"
+       id="filter6304">
+      <feTurbulence
+         seed="50"
+         type="fractalNoise"
+         baseFrequency="1"
+         numOctaves="3"
+         result="result1"
+         id="feTurbulence6306" />
+      <feColorMatrix
+         type="luminanceToAlpha"
+         in="SourceGraphic"
+         result="result0"
+         id="feColorMatrix6308" />
+      <feColorMatrix
+         result="result2"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.7 0 "
+         id="feColorMatrix6310" />
+      <feComposite
+         result="result3"
+         operator="over"
+         in="result1"
+         in2="result2"
+         id="feComposite6312" />
+      <feColorMatrix
+         result="result91"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -3.2 "
+         id="feColorMatrix6314" />
+      <feComposite
+         result="result4"
+         in="SourceGraphic"
+         operator="out"
+         in2="result91"
+         id="feComposite6316" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Darken the edges with an inner blur"
+       inkscape:menu="Shadows and Glows"
+       inkscape:label="Darken edges"
+       id="filter6276">
+      <feGaussianBlur
+         stdDeviation="1.5"
+         result="result6"
+         id="feGaussianBlur6278" />
+      <feComposite
+         result="result8"
+         in="SourceGraphic"
+         operator="atop"
+         in2="result6"
+         id="feComposite6280" />
+      <feComposite
+         result="result9"
+         operator="atop"
+         in="result8"
+         in2="SourceAlpha"
+         id="feComposite6282" />
+    </filter>
+    <linearGradient
+       y2="109.79786"
+       x2="4.0958133"
+       y1="109.79786"
+       x1="0.68271893"
+       gradientTransform="translate(-64.495504,-77.591321)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient6246"
+       xlink:href="#linearGradient6228"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="109.79786"
+       x2="4.0958133"
+       y1="109.79786"
+       x1="0.68271893"
+       gradientTransform="translate(-4.0699691,-77.792096)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient6242"
+       xlink:href="#linearGradient6228"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="109.79786"
+       x2="4.0958133"
+       y1="109.79786"
+       x1="0.68271893"
+       gradientTransform="translate(59.905318,-78.008877)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient6238"
+       xlink:href="#linearGradient6228"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="109.79786"
+       x2="4.0958133"
+       y1="109.79786"
+       x1="0.68271893"
+       gradientTransform="translate(-0.67440698,-77.999903)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient6000"
+       xlink:href="#linearGradient6228"
+       inkscape:collect="always" />
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Basic specular bevel to use for building textures"
+       inkscape:menu="Bevels"
+       inkscape:label="Combined lighting"
+       id="filter5897-1">
+      <feGaussianBlur
+         result="result0"
+         in="SourceGraphic"
+         stdDeviation="6"
+         id="feGaussianBlur5899-3" />
+      <feDiffuseLighting
+         result="result5"
+         surfaceScale="4"
+         diffuseConstant="1"
+         lighting-color="rgb(255,255,255)"
+         id="feDiffuseLighting5901-0">
+        <feDistantLight
+           azimuth="235"
+           elevation="45"
+           id="feDistantLight5903-7" />
+      </feDiffuseLighting>
+      <feComposite
+         operator="arithmetic"
+         result="fbSourceGraphic"
+         in="result5"
+         k1="1.4"
+         in2="SourceGraphic"
+         id="feComposite5905-23" />
+      <feGaussianBlur
+         stdDeviation="6"
+         in="fbSourceGraphic"
+         result="result0"
+         id="feGaussianBlur5907-58" />
+      <feSpecularLighting
+         in="result0"
+         result="result1"
+         lighting-color="rgb(255,255,255)"
+         surfaceScale="4"
+         specularConstant="1"
+         specularExponent="25"
+         id="feSpecularLighting5909-35">
+        <feDistantLight
+           elevation="45"
+           azimuth="235"
+           id="feDistantLight5911-6" />
+      </feSpecularLighting>
+      <feComposite
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="result1"
+         id="feComposite5913-1" />
+      <feComposite
+         in="result4"
+         result="result2"
+         operator="in"
+         in2="SourceGraphic"
+         id="feComposite5915-7" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Basic specular bevel to use for building textures"
+       inkscape:menu="Bevels"
+       inkscape:label="Combined lighting"
+       id="filter5877-4">
+      <feGaussianBlur
+         result="result0"
+         in="SourceGraphic"
+         stdDeviation="6"
+         id="feGaussianBlur5879-1" />
+      <feDiffuseLighting
+         result="result5"
+         surfaceScale="4"
+         diffuseConstant="1"
+         lighting-color="rgb(255,255,255)"
+         id="feDiffuseLighting5881-6">
+        <feDistantLight
+           azimuth="235"
+           elevation="45"
+           id="feDistantLight5883-60" />
+      </feDiffuseLighting>
+      <feComposite
+         operator="arithmetic"
+         result="fbSourceGraphic"
+         in="result5"
+         k1="1.4"
+         in2="SourceGraphic"
+         id="feComposite5885-23" />
+      <feGaussianBlur
+         stdDeviation="6"
+         in="fbSourceGraphic"
+         result="result0"
+         id="feGaussianBlur5887-3" />
+      <feSpecularLighting
+         in="result0"
+         result="result1"
+         lighting-color="rgb(255,255,255)"
+         surfaceScale="4"
+         specularConstant="1"
+         specularExponent="25"
+         id="feSpecularLighting5889-58">
+        <feDistantLight
+           elevation="45"
+           azimuth="235"
+           id="feDistantLight5891-1" />
+      </feSpecularLighting>
+      <feComposite
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="result1"
+         id="feComposite5893-8" />
+      <feComposite
+         in="result4"
+         result="result2"
+         operator="in"
+         in2="SourceGraphic"
+         id="feComposite5895-1" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Basic specular bevel to use for building textures"
+       inkscape:menu="Bevels"
+       inkscape:label="Combined lighting"
+       id="filter5857-4">
+      <feGaussianBlur
+         result="result0"
+         in="SourceGraphic"
+         stdDeviation="6"
+         id="feGaussianBlur5859-7" />
+      <feDiffuseLighting
+         result="result5"
+         surfaceScale="4"
+         diffuseConstant="1"
+         lighting-color="rgb(255,255,255)"
+         id="feDiffuseLighting5861-8">
+        <feDistantLight
+           azimuth="235"
+           elevation="45"
+           id="feDistantLight5863-17" />
+      </feDiffuseLighting>
+      <feComposite
+         operator="arithmetic"
+         result="fbSourceGraphic"
+         in="result5"
+         k1="1.4"
+         in2="SourceGraphic"
+         id="feComposite5865-04" />
+      <feGaussianBlur
+         stdDeviation="6"
+         in="fbSourceGraphic"
+         result="result0"
+         id="feGaussianBlur5867-69" />
+      <feSpecularLighting
+         in="result0"
+         result="result1"
+         lighting-color="rgb(255,255,255)"
+         surfaceScale="4"
+         specularConstant="1"
+         specularExponent="25"
+         id="feSpecularLighting5869-5">
+        <feDistantLight
+           elevation="45"
+           azimuth="235"
+           id="feDistantLight5871-3" />
+      </feSpecularLighting>
+      <feComposite
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="result1"
+         id="feComposite5873-2" />
+      <feComposite
+         in="result4"
+         result="result2"
+         operator="in"
+         in2="SourceGraphic"
+         id="feComposite5875-9" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Basic specular bevel to use for building textures"
+       inkscape:menu="Bevels"
+       inkscape:label="Combined lighting"
+       id="filter5837-36">
+      <feGaussianBlur
+         result="result0"
+         in="SourceGraphic"
+         stdDeviation="6"
+         id="feGaussianBlur5839-9" />
+      <feDiffuseLighting
+         result="result5"
+         surfaceScale="4"
+         diffuseConstant="1"
+         lighting-color="rgb(255,255,255)"
+         id="feDiffuseLighting5841-1">
+        <feDistantLight
+           azimuth="235"
+           elevation="45"
+           id="feDistantLight5843-0" />
+      </feDiffuseLighting>
+      <feComposite
+         operator="arithmetic"
+         result="fbSourceGraphic"
+         in="result5"
+         k1="1.4"
+         in2="SourceGraphic"
+         id="feComposite5845-4" />
+      <feGaussianBlur
+         stdDeviation="6"
+         in="fbSourceGraphic"
+         result="result0"
+         id="feGaussianBlur5847-58" />
+      <feSpecularLighting
+         in="result0"
+         result="result1"
+         lighting-color="rgb(255,255,255)"
+         surfaceScale="4"
+         specularConstant="1"
+         specularExponent="25"
+         id="feSpecularLighting5849-21">
+        <feDistantLight
+           elevation="45"
+           azimuth="235"
+           id="feDistantLight5851-6" />
+      </feSpecularLighting>
+      <feComposite
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="result1"
+         id="feComposite5853-0" />
+      <feComposite
+         in="result4"
+         result="result2"
+         operator="in"
+         in2="SourceGraphic"
+         id="feComposite5855-8" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Basic specular bevel to use for building textures"
+       inkscape:menu="Bevels"
+       inkscape:label="Combined lighting"
+       id="filter5817-9">
+      <feGaussianBlur
+         result="result0"
+         in="SourceGraphic"
+         stdDeviation="6"
+         id="feGaussianBlur5819-2" />
+      <feDiffuseLighting
+         result="result5"
+         surfaceScale="4"
+         diffuseConstant="1"
+         lighting-color="rgb(255,255,255)"
+         id="feDiffuseLighting5821-5">
+        <feDistantLight
+           azimuth="235"
+           elevation="45"
+           id="feDistantLight5823-5" />
+      </feDiffuseLighting>
+      <feComposite
+         operator="arithmetic"
+         result="fbSourceGraphic"
+         in="result5"
+         k1="1.4"
+         in2="SourceGraphic"
+         id="feComposite5825-9" />
+      <feGaussianBlur
+         stdDeviation="6"
+         in="fbSourceGraphic"
+         result="result0"
+         id="feGaussianBlur5827-1" />
+      <feSpecularLighting
+         in="result0"
+         result="result1"
+         lighting-color="rgb(255,255,255)"
+         surfaceScale="4"
+         specularConstant="1"
+         specularExponent="25"
+         id="feSpecularLighting5829-1">
+        <feDistantLight
+           elevation="45"
+           azimuth="235"
+           id="feDistantLight5831-4" />
+      </feSpecularLighting>
+      <feComposite
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="result1"
+         id="feComposite5833-42" />
+      <feComposite
+         in="result4"
+         result="result2"
+         operator="in"
+         in2="SourceGraphic"
+         id="feComposite5835-6" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.5"
+       width="1.5"
+       y="-0.25"
+       x="-0.25"
+       inkscape:menu-tooltip="Bubble effect with refraction and glow"
+       inkscape:menu="Ridges"
+       inkscape:label="Glowing bubble"
+       id="filter4943-7">
+      <feGaussianBlur
+         result="result1"
+         stdDeviation="1"
+         id="feGaussianBlur4945-4" />
+      <feGaussianBlur
+         in="result1"
+         result="result6"
+         stdDeviation="10"
+         id="feGaussianBlur4947-80" />
+      <feComposite
+         result="result8"
+         in="result6"
+         operator="atop"
+         in2="result1"
+         id="feComposite4949-6" />
+      <feComposite
+         in="result6"
+         result="fbSourceGraphic"
+         operator="xor"
+         in2="result8"
+         id="feComposite4951-0" />
+      <feColorMatrix
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 2 0 "
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha"
+         id="feColorMatrix4953-5" />
+      <feGaussianBlur
+         stdDeviation="1"
+         in="fbSourceGraphicAlpha"
+         result="result0"
+         id="feGaussianBlur4955-92" />
+      <feSpecularLighting
+         in="result0"
+         result="result1"
+         lighting-color="rgb(255,255,255)"
+         surfaceScale="-2"
+         specularConstant="1.5"
+         specularExponent="35"
+         id="feSpecularLighting4957-8">
+        <feDistantLight
+           elevation="60"
+           azimuth="230"
+           id="feDistantLight4959-3" />
+      </feSpecularLighting>
+      <feComposite
+         in="result1"
+         result="result2"
+         operator="in"
+         in2="fbSourceGraphicAlpha"
+         id="feComposite4961-7" />
+      <feComposite
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="result2"
+         id="feComposite4963-6" />
+      <feComposite
+         result="result91"
+         in="result9"
+         operator="atop"
+         in2="result4"
+         id="feComposite4965-29" />
+      <feBlend
+         mode="multiply"
+         in2="result91"
+         id="feBlend4967-85" />
+    </filter>
+    <inkscape:perspective
+       id="perspective5958-5"
+       inkscape:persp3d-origin="32 : 21.333333 : 1"
+       inkscape:vp_z="64 : 32 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 32 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       id="linearGradient5984-2">
+      <stop
+         id="stop5986-3"
+         offset="0"
+         style="stop-color:#1a1a1a;stop-opacity:1;" />
+      <stop
+         style="stop-color:#464646;stop-opacity:1;"
+         offset="0.5"
+         id="stop5992-05" />
+      <stop
+         id="stop5988-0"
+         offset="1"
+         style="stop-color:#1a1a1a;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6016-5">
+      <stop
+         id="stop6018-1"
+         offset="0"
+         style="stop-color:#ffcc00;stop-opacity:0.39215687;" />
+      <stop
+         style="stop-color:#ffcc00;stop-opacity:1;"
+         offset="0.5"
+         id="stop6024-60" />
+      <stop
+         id="stop6020-0"
+         offset="1"
+         style="stop-color:#ffcc00;stop-opacity:0.39215687;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6228">
+      <stop
+         style="stop-color:#1a1a00;stop-opacity:0;"
+         offset="0"
+         id="stop6230" />
+      <stop
+         id="stop6232"
+         offset="0.5"
+         style="stop-color:#ff0008;stop-opacity:0.6111111;" />
+      <stop
+         style="stop-color:#1a1a1a;stop-opacity:0;"
+         offset="1"
+         id="stop6234" />
+    </linearGradient>
+    <linearGradient
+       y2="-32"
+       x2="43.413094"
+       y1="-32"
+       x1="40"
+       gradientTransform="translate(-63.990828,0.00917243)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3888"
+       xlink:href="#linearGradient6016-7"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-32"
+       x2="43.413094"
+       y1="-32"
+       x1="40"
+       gradientTransform="translate(-63.990828,0.00917243)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3886"
+       xlink:href="#linearGradient5984-71"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-32"
+       x2="39.413094"
+       y1="-32"
+       x1="36"
+       gradientTransform="translate(-63.990828,0.00917243)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3884"
+       xlink:href="#linearGradient6016-7"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-32"
+       x2="39.413094"
+       y1="-32"
+       x1="36"
+       gradientTransform="translate(-63.990828,0.00917243)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3882"
+       xlink:href="#linearGradient5984-71"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-32"
+       x2="35.413094"
+       y1="-32"
+       x1="32"
+       gradientTransform="translate(-63.990828,0.00917243)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3880"
+       xlink:href="#linearGradient6016-7"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-32"
+       x2="35.413094"
+       y1="-32"
+       x1="32"
+       gradientTransform="translate(-63.990828,0.00917243)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3878"
+       xlink:href="#linearGradient5984-71"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-32"
+       x2="31.413094"
+       y1="-32"
+       x1="28"
+       gradientTransform="translate(-63.990828,0.00917243)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3876"
+       xlink:href="#linearGradient6016-7"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-32"
+       x2="31.413094"
+       y1="-32"
+       x1="28"
+       gradientTransform="translate(-63.990828,0.00917243)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3874"
+       xlink:href="#linearGradient5984-71"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-32"
+       x2="27.413094"
+       y1="-32"
+       x1="24"
+       gradientTransform="translate(-63.990828,0.00917243)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3872"
+       xlink:href="#linearGradient6016-7"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-32"
+       x2="27.413094"
+       y1="-32"
+       x1="24"
+       gradientTransform="translate(-63.990828,0.00917243)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3870"
+       xlink:href="#linearGradient5984-71"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-32"
+       x2="35.413094"
+       y1="-32"
+       x1="32"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3542-4"
+       xlink:href="#linearGradient6016-7"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-32"
+       x2="35.413094"
+       y1="-32"
+       x1="32"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3540-0"
+       xlink:href="#linearGradient5984-71"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-32"
+       x2="39.413094"
+       y1="-32"
+       x1="36"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3538-2"
+       xlink:href="#linearGradient6016-7"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-32"
+       x2="39.413094"
+       y1="-32"
+       x1="36"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3536-1"
+       xlink:href="#linearGradient5984-71"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-32"
+       x2="43.413094"
+       y1="-32"
+       x1="40"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3534-6"
+       xlink:href="#linearGradient6016-7"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-32"
+       x2="43.413094"
+       y1="-32"
+       x1="40"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3532-1"
+       xlink:href="#linearGradient5984-71"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-32"
+       x2="31.413094"
+       y1="-32"
+       x1="28"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3530-4"
+       xlink:href="#linearGradient6016-7"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-32"
+       x2="31.413094"
+       y1="-32"
+       x1="28"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3528-9"
+       xlink:href="#linearGradient5984-71"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-32"
+       x2="27.413094"
+       y1="-32"
+       x1="24"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3526-7"
+       xlink:href="#linearGradient6016-7"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-32"
+       x2="27.413094"
+       y1="-32"
+       x1="24"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3524-6"
+       xlink:href="#linearGradient5984-71"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-32"
+       x2="23.413094"
+       y1="-32"
+       x1="20"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3522-5"
+       xlink:href="#linearGradient6016-7"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-32"
+       x2="23.413094"
+       y1="-32"
+       x1="20"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3520-8"
+       xlink:href="#linearGradient5984-71"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-32"
+       x2="63.413094"
+       y1="-32"
+       x1="60"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3518-5"
+       xlink:href="#linearGradient5984-71"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-32"
+       x2="59.413094"
+       y1="-32"
+       x1="56"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3516-5"
+       xlink:href="#linearGradient5984-71"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-32"
+       x2="55.413094"
+       y1="-32"
+       x1="52"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3514-1"
+       xlink:href="#linearGradient5984-71"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-32"
+       x2="51.413094"
+       y1="-32"
+       x1="48"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3512-7"
+       xlink:href="#linearGradient5984-71"
+       inkscape:collect="always" />
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Gives a pointillist HSL sensitive transparency"
+       inkscape:menu="Image effects, transparent"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       inkscape:label="Dots transparency"
+       id="filter5610-3">
+      <feTurbulence
+         seed="50"
+         type="fractalNoise"
+         baseFrequency="1"
+         numOctaves="3"
+         result="result1"
+         id="feTurbulence5612-7" />
+      <feColorMatrix
+         type="luminanceToAlpha"
+         in="SourceGraphic"
+         result="result0"
+         id="feColorMatrix5614-5" />
+      <feColorMatrix
+         result="result2"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.7 0 "
+         id="feColorMatrix5616-0" />
+      <feComposite
+         result="result3"
+         operator="over"
+         in="result1"
+         in2="result2"
+         id="feComposite5618-2" />
+      <feColorMatrix
+         result="result91"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -3.2 "
+         id="feColorMatrix5620-1" />
+      <feComposite
+         result="result4"
+         in="SourceGraphic"
+         operator="out"
+         in2="result91"
+         id="feComposite5622-8" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Gives a pointillist HSL sensitive transparency"
+       inkscape:menu="Image effects, transparent"
+       height="1"
+       width="1"
+       y="0"
+       x="0"
+       inkscape:label="Dots transparency"
+       id="filter5596-6">
+      <feTurbulence
+         seed="50"
+         type="fractalNoise"
+         baseFrequency="1"
+         numOctaves="3"
+         result="result1"
+         id="feTurbulence5598-2" />
+      <feColorMatrix
+         type="luminanceToAlpha"
+         in="SourceGraphic"
+         result="result0"
+         id="feColorMatrix5600-5" />
+      <feColorMatrix
+         result="result2"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.7 0 "
+         id="feColorMatrix5602-1" />
+      <feComposite
+         result="result3"
+         operator="over"
+         in="result1"
+         in2="result2"
+         id="feComposite5604-3" />
+      <feColorMatrix
+         result="result91"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -3.2 "
+         id="feColorMatrix5606-9" />
+      <feComposite
+         result="result4"
+         in="SourceGraphic"
+         operator="out"
+         in2="result91"
+         id="feComposite5608-7" />
+    </filter>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-32"
+       x2="23.413094"
+       y1="-32"
+       x1="20"
+       id="linearGradient5590-8"
+       xlink:href="#linearGradient6016-7"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-32"
+       x2="27.413094"
+       y1="-32"
+       x1="24"
+       id="linearGradient5588-5"
+       xlink:href="#linearGradient6016-7"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-32"
+       x2="31.413094"
+       y1="-32"
+       x1="28"
+       id="linearGradient5586-4"
+       xlink:href="#linearGradient6016-7"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-32"
+       x2="35.413094"
+       y1="-32"
+       x1="32"
+       id="linearGradient5584-2"
+       xlink:href="#linearGradient6016-7"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-32"
+       x2="39.413094"
+       y1="-32"
+       x1="36"
+       id="linearGradient5582-9"
+       xlink:href="#linearGradient6016-7"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-32"
+       x2="43.413094"
+       y1="-32"
+       x1="40"
+       id="linearGradient5580-1"
+       xlink:href="#linearGradient6016-7"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-32"
+       x2="43.413094"
+       y1="-32"
+       x1="40"
+       id="linearGradient5572-2"
+       xlink:href="#linearGradient5984-71"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-32"
+       x2="39.413094"
+       y1="-32"
+       x1="36"
+       id="linearGradient5570-4"
+       xlink:href="#linearGradient5984-71"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-32"
+       x2="35.413094"
+       y1="-32"
+       x1="32"
+       id="linearGradient5568-5"
+       xlink:href="#linearGradient5984-71"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-32"
+       x2="31.413094"
+       y1="-32"
+       x1="28"
+       id="linearGradient5566-5"
+       xlink:href="#linearGradient5984-71"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-32"
+       x2="27.413094"
+       y1="-32"
+       x1="24"
+       id="linearGradient5564-5"
+       xlink:href="#linearGradient5984-71"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-32"
+       x2="23.413094"
+       y1="-32"
+       x1="20"
+       id="linearGradient5562-8"
+       xlink:href="#linearGradient5984-71"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-32"
+       x2="47.413094"
+       y1="-32"
+       x1="44"
+       id="linearGradient5542-4"
+       xlink:href="#linearGradient5984-71"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-32"
+       x2="19.413094"
+       y1="-32"
+       x1="16"
+       id="linearGradient5540-0"
+       xlink:href="#linearGradient5984-71"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-32"
+       x2="15.413094"
+       y1="-32"
+       x1="12"
+       id="linearGradient5538-3"
+       xlink:href="#linearGradient5984-71"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-32"
+       x2="11.413094"
+       y1="-32"
+       x1="8"
+       id="linearGradient5536-5"
+       xlink:href="#linearGradient5984-71"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-32"
+       x2="7.4130945"
+       y1="-32"
+       x1="4"
+       id="linearGradient5534-6"
+       xlink:href="#linearGradient5984-71"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-32"
+       x2="3.4130943"
+       y1="-32"
+       x1="0"
+       id="linearGradient5532-5"
+       xlink:href="#linearGradient5984-71"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-32"
+       x2="59.413094"
+       y1="-32"
+       x1="56"
+       id="linearGradient5524-7"
+       xlink:href="#linearGradient5984-71"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-32"
+       x2="63.413094"
+       y1="-32"
+       x1="60"
+       id="linearGradient5516-9"
+       xlink:href="#linearGradient5984-71"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-32"
+       x2="55.413094"
+       y1="-32"
+       x1="52"
+       id="linearGradient5514-2"
+       xlink:href="#linearGradient5984-71"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="-32"
+       x2="51.413094"
+       y1="-32"
+       x1="48"
+       id="linearGradient5512-7"
+       xlink:href="#linearGradient5984-71"
+       inkscape:collect="always" />
+    <pattern
+       inkscape:stockid="Stripes 1:1"
+       id="Strips1_1"
+       patternTransform="translate(0,0) scale(10,10)"
+       height="1"
+       width="2"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <rect
+         id="rect6912"
+         height="2"
+         width="1"
+         y="-0.5"
+         x="0"
+         style="fill:black;stroke:none" />
+    </pattern>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Basic specular bevel to use for building textures"
+       inkscape:menu="Bevels"
+       inkscape:label="Combined lighting"
+       id="filter5897-6">
+      <feGaussianBlur
+         result="result0"
+         in="SourceGraphic"
+         stdDeviation="6"
+         id="feGaussianBlur5899-4" />
+      <feDiffuseLighting
+         result="result5"
+         surfaceScale="4"
+         diffuseConstant="1"
+         lighting-color="rgb(255,255,255)"
+         id="feDiffuseLighting5901-3">
+        <feDistantLight
+           azimuth="235"
+           elevation="45"
+           id="feDistantLight5903-8" />
+      </feDiffuseLighting>
+      <feComposite
+         operator="arithmetic"
+         result="fbSourceGraphic"
+         in="result5"
+         k1="1.4"
+         in2="SourceGraphic"
+         id="feComposite5905-4" />
+      <feGaussianBlur
+         stdDeviation="6"
+         in="fbSourceGraphic"
+         result="result0"
+         id="feGaussianBlur5907-0" />
+      <feSpecularLighting
+         in="result0"
+         result="result1"
+         lighting-color="rgb(255,255,255)"
+         surfaceScale="4"
+         specularConstant="1"
+         specularExponent="25"
+         id="feSpecularLighting5909-0">
+        <feDistantLight
+           elevation="45"
+           azimuth="235"
+           id="feDistantLight5911-9" />
+      </feSpecularLighting>
+      <feComposite
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="result1"
+         id="feComposite5913-3" />
+      <feComposite
+         in="result4"
+         result="result2"
+         operator="in"
+         in2="SourceGraphic"
+         id="feComposite5915-75" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Basic specular bevel to use for building textures"
+       inkscape:menu="Bevels"
+       inkscape:label="Combined lighting"
+       id="filter5877-6">
+      <feGaussianBlur
+         result="result0"
+         in="SourceGraphic"
+         stdDeviation="6"
+         id="feGaussianBlur5879-3" />
+      <feDiffuseLighting
+         result="result5"
+         surfaceScale="4"
+         diffuseConstant="1"
+         lighting-color="rgb(255,255,255)"
+         id="feDiffuseLighting5881-63">
+        <feDistantLight
+           azimuth="235"
+           elevation="45"
+           id="feDistantLight5883-0" />
+      </feDiffuseLighting>
+      <feComposite
+         operator="arithmetic"
+         result="fbSourceGraphic"
+         in="result5"
+         k1="1.4"
+         in2="SourceGraphic"
+         id="feComposite5885-8" />
+      <feGaussianBlur
+         stdDeviation="6"
+         in="fbSourceGraphic"
+         result="result0"
+         id="feGaussianBlur5887-4" />
+      <feSpecularLighting
+         in="result0"
+         result="result1"
+         lighting-color="rgb(255,255,255)"
+         surfaceScale="4"
+         specularConstant="1"
+         specularExponent="25"
+         id="feSpecularLighting5889-0">
+        <feDistantLight
+           elevation="45"
+           azimuth="235"
+           id="feDistantLight5891-4" />
+      </feSpecularLighting>
+      <feComposite
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="result1"
+         id="feComposite5893-6" />
+      <feComposite
+         in="result4"
+         result="result2"
+         operator="in"
+         in2="SourceGraphic"
+         id="feComposite5895-4" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Basic specular bevel to use for building textures"
+       inkscape:menu="Bevels"
+       inkscape:label="Combined lighting"
+       id="filter5857-0">
+      <feGaussianBlur
+         result="result0"
+         in="SourceGraphic"
+         stdDeviation="6"
+         id="feGaussianBlur5859-9" />
+      <feDiffuseLighting
+         result="result5"
+         surfaceScale="4"
+         diffuseConstant="1"
+         lighting-color="rgb(255,255,255)"
+         id="feDiffuseLighting5861-5">
+        <feDistantLight
+           azimuth="235"
+           elevation="45"
+           id="feDistantLight5863-6" />
+      </feDiffuseLighting>
+      <feComposite
+         operator="arithmetic"
+         result="fbSourceGraphic"
+         in="result5"
+         k1="1.4"
+         in2="SourceGraphic"
+         id="feComposite5865-2" />
+      <feGaussianBlur
+         stdDeviation="6"
+         in="fbSourceGraphic"
+         result="result0"
+         id="feGaussianBlur5867-8" />
+      <feSpecularLighting
+         in="result0"
+         result="result1"
+         lighting-color="rgb(255,255,255)"
+         surfaceScale="4"
+         specularConstant="1"
+         specularExponent="25"
+         id="feSpecularLighting5869-59">
+        <feDistantLight
+           elevation="45"
+           azimuth="235"
+           id="feDistantLight5871-4" />
+      </feSpecularLighting>
+      <feComposite
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="result1"
+         id="feComposite5873-39" />
+      <feComposite
+         in="result4"
+         result="result2"
+         operator="in"
+         in2="SourceGraphic"
+         id="feComposite5875-05" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Basic specular bevel to use for building textures"
+       inkscape:menu="Bevels"
+       inkscape:label="Combined lighting"
+       id="filter5837-1">
+      <feGaussianBlur
+         result="result0"
+         in="SourceGraphic"
+         stdDeviation="6"
+         id="feGaussianBlur5839-5" />
+      <feDiffuseLighting
+         result="result5"
+         surfaceScale="4"
+         diffuseConstant="1"
+         lighting-color="rgb(255,255,255)"
+         id="feDiffuseLighting5841-2">
+        <feDistantLight
+           azimuth="235"
+           elevation="45"
+           id="feDistantLight5843-1" />
+      </feDiffuseLighting>
+      <feComposite
+         operator="arithmetic"
+         result="fbSourceGraphic"
+         in="result5"
+         k1="1.4"
+         in2="SourceGraphic"
+         id="feComposite5845-1" />
+      <feGaussianBlur
+         stdDeviation="6"
+         in="fbSourceGraphic"
+         result="result0"
+         id="feGaussianBlur5847-0" />
+      <feSpecularLighting
+         in="result0"
+         result="result1"
+         lighting-color="rgb(255,255,255)"
+         surfaceScale="4"
+         specularConstant="1"
+         specularExponent="25"
+         id="feSpecularLighting5849-1">
+        <feDistantLight
+           elevation="45"
+           azimuth="235"
+           id="feDistantLight5851-8" />
+      </feSpecularLighting>
+      <feComposite
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="result1"
+         id="feComposite5853-76" />
+      <feComposite
+         in="result4"
+         result="result2"
+         operator="in"
+         in2="SourceGraphic"
+         id="feComposite5855-0" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:menu-tooltip="Basic specular bevel to use for building textures"
+       inkscape:menu="Bevels"
+       inkscape:label="Combined lighting"
+       id="filter5817-8">
+      <feGaussianBlur
+         result="result0"
+         in="SourceGraphic"
+         stdDeviation="6"
+         id="feGaussianBlur5819-3" />
+      <feDiffuseLighting
+         result="result5"
+         surfaceScale="4"
+         diffuseConstant="1"
+         lighting-color="rgb(255,255,255)"
+         id="feDiffuseLighting5821-0">
+        <feDistantLight
+           azimuth="235"
+           elevation="45"
+           id="feDistantLight5823-6" />
+      </feDiffuseLighting>
+      <feComposite
+         operator="arithmetic"
+         result="fbSourceGraphic"
+         in="result5"
+         k1="1.4"
+         in2="SourceGraphic"
+         id="feComposite5825-2" />
+      <feGaussianBlur
+         stdDeviation="6"
+         in="fbSourceGraphic"
+         result="result0"
+         id="feGaussianBlur5827-2" />
+      <feSpecularLighting
+         in="result0"
+         result="result1"
+         lighting-color="rgb(255,255,255)"
+         surfaceScale="4"
+         specularConstant="1"
+         specularExponent="25"
+         id="feSpecularLighting5829-5">
+        <feDistantLight
+           elevation="45"
+           azimuth="235"
+           id="feDistantLight5831-2" />
+      </feSpecularLighting>
+      <feComposite
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="result1"
+         id="feComposite5833-2" />
+      <feComposite
+         in="result4"
+         result="result2"
+         operator="in"
+         in2="SourceGraphic"
+         id="feComposite5835-7" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       height="1.5"
+       width="1.5"
+       y="-0.25"
+       x="-0.25"
+       inkscape:menu-tooltip="Bubble effect with refraction and glow"
+       inkscape:menu="Ridges"
+       inkscape:label="Glowing bubble"
+       id="filter4943-4">
+      <feGaussianBlur
+         result="result1"
+         stdDeviation="1"
+         id="feGaussianBlur4945-9" />
+      <feGaussianBlur
+         in="result1"
+         result="result6"
+         stdDeviation="10"
+         id="feGaussianBlur4947-1" />
+      <feComposite
+         result="result8"
+         in="result6"
+         operator="atop"
+         in2="result1"
+         id="feComposite4949-5" />
+      <feComposite
+         in="result6"
+         result="fbSourceGraphic"
+         operator="xor"
+         in2="result8"
+         id="feComposite4951-5" />
+      <feColorMatrix
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 2 0 "
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha"
+         id="feColorMatrix4953-58" />
+      <feGaussianBlur
+         stdDeviation="1"
+         in="fbSourceGraphicAlpha"
+         result="result0"
+         id="feGaussianBlur4955-2" />
+      <feSpecularLighting
+         in="result0"
+         result="result1"
+         lighting-color="rgb(255,255,255)"
+         surfaceScale="-2"
+         specularConstant="1.5"
+         specularExponent="35"
+         id="feSpecularLighting4957-98">
+        <feDistantLight
+           elevation="60"
+           azimuth="230"
+           id="feDistantLight4959-2" />
+      </feSpecularLighting>
+      <feComposite
+         in="result1"
+         result="result2"
+         operator="in"
+         in2="fbSourceGraphicAlpha"
+         id="feComposite4961-0" />
+      <feComposite
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="1"
+         k3="1"
+         in2="result2"
+         id="feComposite4963-74" />
+      <feComposite
+         result="result91"
+         in="result9"
+         operator="atop"
+         in2="result4"
+         id="feComposite4965-8" />
+      <feBlend
+         mode="multiply"
+         in2="result91"
+         id="feBlend4967-5" />
+    </filter>
+    <inkscape:perspective
+       id="perspective5958-4"
+       inkscape:persp3d-origin="189.51975 : -40.076803 : 1"
+       inkscape:vp_z="221.51975 : -29.410136 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="157.51975 : -29.410136 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       id="linearGradient5984-71">
+      <stop
+         id="stop5986-87"
+         offset="0"
+         style="stop-color:#1a1a1a;stop-opacity:1;" />
+      <stop
+         style="stop-color:#464646;stop-opacity:1;"
+         offset="0.5"
+         id="stop5992-8" />
+      <stop
+         id="stop5988-77"
+         offset="1"
+         style="stop-color:#1a1a1a;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6016-7">
+      <stop
+         id="stop6018-8"
+         offset="0"
+         style="stop-color:#d4aa00;stop-opacity:0.39215687;" />
+      <stop
+         style="stop-color:#d4aa00;stop-opacity:1;"
+         offset="0.5"
+         id="stop6024-4" />
+      <stop
+         id="stop6020-1"
+         offset="1"
+         style="stop-color:#d4aa00;stop-opacity:0.39215687;" />
+    </linearGradient>
+    <filter
+       id="filter5358-1"
+       inkscape:label="Combined lighting"
+       inkscape:menu="Bevels"
+       inkscape:menu-tooltip="Basic specular bevel to use for building textures"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur5360-7"
+         stdDeviation="6"
+         in="SourceGraphic"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting5362-55"
+         lighting-color="rgb(255,255,255)"
+         diffuseConstant="1"
+         surfaceScale="4"
+         result="result5">
+        <feDistantLight
+           id="feDistantLight5364-41"
+           elevation="45"
+           azimuth="235" />
+      </feDiffuseLighting>
+      <feComposite
+         id="feComposite5366-8"
+         in2="SourceGraphic"
+         k1="1.4"
+         in="result5"
+         result="fbSourceGraphic"
+         operator="arithmetic" />
+      <feGaussianBlur
+         id="feGaussianBlur5368-83"
+         result="result0"
+         in="fbSourceGraphic"
+         stdDeviation="6" />
+      <feSpecularLighting
+         id="feSpecularLighting5370-5"
+         specularExponent="25"
+         specularConstant="1"
+         surfaceScale="4"
+         lighting-color="rgb(255,255,255)"
+         result="result1"
+         in="result0">
+        <feDistantLight
+           id="feDistantLight5372-2"
+           azimuth="235"
+           elevation="45" />
+      </feSpecularLighting>
+      <feComposite
+         id="feComposite5374-26"
+         in2="result1"
+         k3="1"
+         k2="1"
+         operator="arithmetic"
+         result="result4"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite5376-6"
+         in2="SourceGraphic"
+         operator="in"
+         result="result2"
+         in="result4" />
+    </filter>
+    <filter
+       id="filter5378-6"
+       inkscape:label="Combined lighting"
+       inkscape:menu="Bevels"
+       inkscape:menu-tooltip="Basic specular bevel to use for building textures"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur5380-9"
+         stdDeviation="6"
+         in="SourceGraphic"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting5382-4"
+         lighting-color="rgb(255,255,255)"
+         diffuseConstant="1"
+         surfaceScale="4"
+         result="result5">
+        <feDistantLight
+           id="feDistantLight5384-1"
+           elevation="45"
+           azimuth="235" />
+      </feDiffuseLighting>
+      <feComposite
+         id="feComposite5386-3"
+         in2="SourceGraphic"
+         k1="1.4"
+         in="result5"
+         result="fbSourceGraphic"
+         operator="arithmetic" />
+      <feGaussianBlur
+         id="feGaussianBlur5388-7"
+         result="result0"
+         in="fbSourceGraphic"
+         stdDeviation="6" />
+      <feSpecularLighting
+         id="feSpecularLighting5390-88"
+         specularExponent="25"
+         specularConstant="1"
+         surfaceScale="4"
+         lighting-color="rgb(255,255,255)"
+         result="result1"
+         in="result0">
+        <feDistantLight
+           id="feDistantLight5392-3"
+           azimuth="235"
+           elevation="45" />
+      </feSpecularLighting>
+      <feComposite
+         id="feComposite5394-8"
+         in2="result1"
+         k3="1"
+         k2="1"
+         operator="arithmetic"
+         result="result4"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite5396-1"
+         in2="SourceGraphic"
+         operator="in"
+         result="fbSourceGraphic"
+         in="result4" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix5462-53" />
+      <feGaussianBlur
+         id="feGaussianBlur5464-5"
+         stdDeviation="6"
+         in="fbSourceGraphic"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting5466-4"
+         lighting-color="rgb(255,255,255)"
+         diffuseConstant="1"
+         surfaceScale="4"
+         result="result5">
+        <feDistantLight
+           id="feDistantLight5468-3"
+           elevation="45"
+           azimuth="235" />
+      </feDiffuseLighting>
+      <feComposite
+         id="feComposite5470-6"
+         in2="fbSourceGraphic"
+         k1="1.4"
+         in="result5"
+         result="fbSourceGraphic"
+         operator="arithmetic" />
+      <feGaussianBlur
+         id="feGaussianBlur5472-5"
+         result="result0"
+         in="fbSourceGraphic"
+         stdDeviation="6" />
+      <feSpecularLighting
+         id="feSpecularLighting5474-9"
+         specularExponent="25"
+         specularConstant="1"
+         surfaceScale="4"
+         lighting-color="rgb(255,255,255)"
+         result="result1"
+         in="result0">
+        <feDistantLight
+           id="feDistantLight5476-5"
+           azimuth="235"
+           elevation="45" />
+      </feSpecularLighting>
+      <feComposite
+         id="feComposite5478-4"
+         in2="result1"
+         k3="1"
+         k2="1"
+         operator="arithmetic"
+         result="result4"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite5480-9"
+         in2="fbSourceGraphic"
+         operator="in"
+         result="result2"
+         in="result4" />
+    </filter>
+    <filter
+       id="filter5442-1"
+       inkscape:label="Combined lighting"
+       inkscape:menu="Bevels"
+       inkscape:menu-tooltip="Basic specular bevel to use for building textures"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur5444-3"
+         stdDeviation="6"
+         in="SourceGraphic"
+         result="result0" />
+      <feDiffuseLighting
+         id="feDiffuseLighting5446-8"
+         lighting-color="rgb(255,255,255)"
+         diffuseConstant="1"
+         surfaceScale="4"
+         result="result5">
+        <feDistantLight
+           id="feDistantLight5448-4"
+           elevation="45"
+           azimuth="235" />
+      </feDiffuseLighting>
+      <feComposite
+         id="feComposite5450-8"
+         in2="SourceGraphic"
+         k1="1.4"
+         in="result5"
+         result="fbSourceGraphic"
+         operator="arithmetic" />
+      <feGaussianBlur
+         id="feGaussianBlur5452-0"
+         result="result0"
+         in="fbSourceGraphic"
+         stdDeviation="6" />
+      <feSpecularLighting
+         id="feSpecularLighting5454-4"
+         specularExponent="25"
+         specularConstant="1"
+         surfaceScale="4"
+         lighting-color="rgb(255,255,255)"
+         result="result1"
+         in="result0">
+        <feDistantLight
+           id="feDistantLight5456-60"
+           azimuth="235"
+           elevation="45" />
+      </feSpecularLighting>
+      <feComposite
+         id="feComposite5458-3"
+         in2="result1"
+         k3="1"
+         k2="1"
+         operator="arithmetic"
+         result="result4"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite5460-2"
+         in2="SourceGraphic"
+         operator="in"
+         result="result2"
+         in="result4" />
+    </filter>
+    <filter
+       id="filter6032-17"
+       inkscape:label="Dots transparency"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Image effects, transparent"
+       inkscape:menu-tooltip="Gives a pointillist HSL sensitive transparency"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence6034-2"
+         result="result1"
+         numOctaves="3"
+         baseFrequency="1"
+         type="fractalNoise"
+         seed="50" />
+      <feColorMatrix
+         id="feColorMatrix6036-3"
+         result="result0"
+         in="SourceGraphic"
+         type="luminanceToAlpha" />
+      <feColorMatrix
+         id="feColorMatrix6038-6"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.7 0 "
+         result="result2" />
+      <feComposite
+         id="feComposite6040-55"
+         in2="result2"
+         in="result1"
+         operator="over"
+         result="result3" />
+      <feColorMatrix
+         id="feColorMatrix6042-81"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -3.2 "
+         result="result91" />
+      <feComposite
+         id="feComposite6044-47"
+         in2="result91"
+         operator="out"
+         in="SourceGraphic"
+         result="result4" />
+    </filter>
+    <filter
+       id="filter6048-6"
+       inkscape:label="Dots transparency"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Image effects, transparent"
+       inkscape:menu-tooltip="Gives a pointillist HSL sensitive transparency"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence6050-27"
+         result="result1"
+         numOctaves="3"
+         baseFrequency="1"
+         type="fractalNoise"
+         seed="50" />
+      <feColorMatrix
+         id="feColorMatrix6052-0"
+         result="result0"
+         in="SourceGraphic"
+         type="luminanceToAlpha" />
+      <feColorMatrix
+         id="feColorMatrix6054-3"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.7 0 "
+         result="result2" />
+      <feComposite
+         id="feComposite6056-9"
+         in2="result2"
+         in="result1"
+         operator="over"
+         result="result3" />
+      <feColorMatrix
+         id="feColorMatrix6058-9"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 5 -3.2 "
+         result="result91" />
+      <feComposite
+         id="feComposite6060-9"
+         in2="result91"
+         operator="out"
+         in="SourceGraphic"
+         result="result4" />
+    </filter>
+    <pattern
+       patternTransform="matrix(-1.7679738,1.3038525,-6.449237,-8.744917,-45.249729,6.8497296)"
+       id="pattern5749-7"
+       xlink:href="#Strips1_1"
+       inkscape:collect="always" />
+    <pattern
+       patternTransform="matrix(-4.2505514,3.0361312,-11.320279,-15.848271,-65.880222,-2.4399634)"
+       id="pattern5759"
+       xlink:href="#pattern5749-7"
+       inkscape:collect="always" />
+    <pattern
+       patternTransform="matrix(-4.2505514,3.0361312,-11.320279,-15.848271,-65.880222,-66.430791)"
+       id="pattern3254"
+       xlink:href="#pattern5759"
+       inkscape:collect="always" />
+    <pattern
+       patternTransform="matrix(-4.2505514,3.0361312,-11.320279,-15.848271,-65.880222,-12.439963)"
+       id="pattern3256"
+       xlink:href="#pattern5759"
+       inkscape:collect="always" />
+    <pattern
+       patternTransform="matrix(5.1054055,0,0,10.622703,11.113513,0)"
+       id="pattern5484"
+       xlink:href="#Strips1_1"
+       inkscape:collect="always" />
+    <pattern
+       patternTransform="matrix(5.1054055,0,0,10.622703,11.122684,-55.5)"
+       id="pattern5507"
+       xlink:href="#pattern5484"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6016-7"
+       id="linearGradient4437"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-55.463505,-87.749999)"
+       x1="20"
+       y1="-32"
+       x2="23.413094"
+       y2="-32" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5984-71"
+       id="linearGradient4440"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-55.463505,-87.749999)"
+       x1="20"
+       y1="-32"
+       x2="23.413094"
+       y2="-32" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5984-71"
+       id="linearGradient4443"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-55.472171,-87.749999)"
+       x1="60"
+       y1="-32"
+       x2="63.413094"
+       y2="-32" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5984-71"
+       id="linearGradient4446"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-55.471306,-87.749999)"
+       x1="56"
+       y1="-32"
+       x2="59.413094"
+       y2="-32" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5984-71"
+       id="linearGradient4449"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-55.470436,-87.749999)"
+       x1="52"
+       y1="-32"
+       x2="55.413094"
+       y2="-32" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5984-71"
+       id="linearGradient4452"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-55.46957,-87.749999)"
+       x1="48"
+       y1="-32"
+       x2="51.413094"
+       y2="-32" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5984-71"
+       id="linearGradient4455"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-55.468704,-87.749999)"
+       x1="44"
+       y1="-32"
+       x2="47.413094"
+       y2="-32" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5984-71"
+       id="linearGradient4458"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-55.462635,-87.749999)"
+       x1="16"
+       y1="-32"
+       x2="19.413094"
+       y2="-32" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5984-71"
+       id="linearGradient4461"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-55.461773,-87.749999)"
+       x1="12"
+       y1="-32"
+       x2="15.413094"
+       y2="-32" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5984-71"
+       id="linearGradient4464"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-55.460904,-87.749999)"
+       x1="8"
+       y1="-32"
+       x2="11.413094"
+       y2="-32" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5984-71"
+       id="linearGradient4467"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-55.460037,-87.749999)"
+       x1="4"
+       y1="-32"
+       x2="7.4130945"
+       y2="-32" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5984-71"
+       id="linearGradient4470"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-55.459169,-87.749999)"
+       x1="0"
+       y1="-32"
+       x2="3.4130943"
+       y2="-32" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffff00"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1056"
+     inkscape:window-height="722"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="4"
+     inkscape:cx="46.884673"
+     inkscape:cy="43.555414"
+     inkscape:window-x="401"
+     inkscape:window-y="101"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     showborder="true"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <image
+     y="46.231644"
+     x="233.05666"
+     id="image3413"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABHNCSVQICAgIfAhkiAAAARRJREFU eJztm0EOwiAUBanxGpyLM3IuDqKrmhSB0iqZlv9mpTXGYQRxURa35eVssKwPHqTFFXi2XgwhFK97 74fI/EpKqXg9xlh9j/kZoAC0AI0C0AI0CkAL0CgALUCjALQAjQLQAjQKQAvQKAAtQKMAtACNAtAC NApAC9AoAC1AowC0AI0C0AI0CkAL0CgALUCjALQAjQLQAjQKQAvQmA/QvFGyRu2GxJVRN1Lufe4Z zM8ABaAFaBSAFqAxH2DJnnefGKmdJXCO2QZbZwIKfMZ96n/AHiP261HkSyCfETOyGWPpN2DmCF9j qy2BUoS7nSjr+iLN7wLmAxxZ71oCM3L0F/8us6B7XGe2vKtHmHkbF+LfvAGB/xrV4omMVAAAAABJ RU5ErkJggg== "
+     height="64"
+     width="64" />
+  <path
+     style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.917;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     d="m 0.4585363,0.458536 63.0829277,0 0,7.885366 0,7.885366 0,7.885366 0,7.885366 0,7.885366 0,7.885366 0,7.885366 -7.885464,-9.8e-5 9.8e-5,7.885464 -7.885366,0 -7.885366,0 -7.885366,0 -7.885366,0 -7.885366,0 -7.8853657,0 L 8.344,55.656 l -7.8854637,9.8e-5 0,-7.885366 0,-7.885366 0,-7.885366 0,-7.885366 0,-7.885366 0,-7.885366 z"
+     id="rect3565"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccccccccccccccccccccc" />
+  <path
+     sodipodi:nodetypes="cccccccccccccccccccccccccc"
+     inkscape:connector-curvature="0"
+     id="path4338"
+     d="m 2.0389186,0 59.9999994,0 0,7.7500004 0,7.7500006 0,7.75 0,7.75 0,7.749999 0,7.75 0,7.750001 -7.500093,-9.7e-5 9.4e-5,7.750096 -7.500001,0 -7.5,0 -7.499999,0 -7.5,0 -7.500001,0 -7.499999,0 9.2e-5,-7.750096 -7.5000925,9.7e-5 0,-7.750001 0,-7.75 0,-7.749999 0,-7.75 0,-7.75 0,-7.7499995 z"
+     style="fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+  <path
+     style="fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     d="M 6.5000002,0 57.5,0 l 0,6.6250002 0,6.6250008 0,6.624999 0,6.624999 0,6.625001 0,6.625 0,6.625001 -6.375079,-8.3e-5 L 51.125,53 44.75,53 38.375,53 32,53 25.625001,53 19.25,53 l -6.375,0 7.8e-5,-6.625082 -6.3750779,8.3e-5 0,-6.625001 0,-6.625 0,-6.625001 0,-6.624999 0,-6.624999 0,-6.6250008 z"
+     id="path4340"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccccccccccccccccccccc" />
+  <path
+     transform="matrix(0.14388947,0,0,0.17545869,37.011516,18.783167)"
+     d="m 92.277433,120.9221 a 15.909903,12.727922 0 1 1 -31.819805,0 15.909903,12.727922 0 1 1 31.819805,0 z"
+     sodipodi:ry="12.727922"
+     sodipodi:rx="15.909903"
+     sodipodi:cy="120.9221"
+     sodipodi:cx="76.367531"
+     id="path4368"
+     style="fill:#917c6f;fill-opacity:1;stroke:#333333;stroke-width:5.69210005;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter4943)"
+     sodipodi:type="arc" />
+  <path
+     sodipodi:type="arc"
+     style="fill:#917c6f;fill-opacity:1;stroke:#333333;stroke-width:5.69210005;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter4943)"
+     id="path4382"
+     sodipodi:cx="76.367531"
+     sodipodi:cy="120.9221"
+     sodipodi:rx="15.909903"
+     sodipodi:ry="12.727922"
+     d="m 92.277433,120.9221 a 15.909903,12.727922 0 1 1 -31.819805,0 15.909903,12.727922 0 1 1 31.819805,0 z"
+     transform="matrix(0.14388947,0,0,0.17545869,5.011516,18.783167)" />
+  <path
+     sodipodi:type="arc"
+     style="fill:#917c6f;fill-opacity:1;stroke:#333333;stroke-width:5.69210005;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter4943)"
+     id="path4384"
+     sodipodi:cx="76.367531"
+     sodipodi:cy="120.9221"
+     sodipodi:rx="15.909903"
+     sodipodi:ry="12.727922"
+     d="m 92.277433,120.9221 a 15.909903,12.727922 0 1 1 -31.819805,0 15.909903,12.727922 0 1 1 31.819805,0 z"
+     transform="matrix(0.14388947,0,0,0.17545869,37.011516,8.783167)" />
+  <path
+     transform="matrix(0.14388947,0,0,0.17545869,5.011516,8.783167)"
+     d="m 92.277433,120.9221 a 15.909903,12.727922 0 1 1 -31.819805,0 15.909903,12.727922 0 1 1 31.819805,0 z"
+     sodipodi:ry="12.727922"
+     sodipodi:rx="15.909903"
+     sodipodi:cy="120.9221"
+     sodipodi:cx="76.367531"
+     id="path4386"
+     style="fill:#917c6f;fill-opacity:1;stroke:#333333;stroke-width:5.69210005;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter4943)"
+     sodipodi:type="arc" />
+  <path
+     transform="matrix(0.14388947,0,0,0.17545869,37.011516,-1.216833)"
+     d="m 92.277433,120.9221 a 15.909903,12.727922 0 1 1 -31.819805,0 15.909903,12.727922 0 1 1 31.819805,0 z"
+     sodipodi:ry="12.727922"
+     sodipodi:rx="15.909903"
+     sodipodi:cy="120.9221"
+     sodipodi:cx="76.367531"
+     id="path4388"
+     style="fill:#917c6f;fill-opacity:1;stroke:#333333;stroke-width:5.69210005;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter4943)"
+     sodipodi:type="arc" />
+  <path
+     sodipodi:type="arc"
+     style="fill:#917c6f;fill-opacity:1;stroke:#333333;stroke-width:5.69210005;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter4943)"
+     id="path4390"
+     sodipodi:cx="76.367531"
+     sodipodi:cy="120.9221"
+     sodipodi:rx="15.909903"
+     sodipodi:ry="12.727922"
+     d="m 92.277433,120.9221 a 15.909903,12.727922 0 1 1 -31.819805,0 15.909903,12.727922 0 1 1 31.819805,0 z"
+     transform="matrix(0.14388947,0,0,0.17545869,5.011516,-1.216833)" />
+  <path
+     sodipodi:type="arc"
+     style="fill:#917c6f;fill-opacity:1;stroke:#333333;stroke-width:5.69210005;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter4943)"
+     id="path4392"
+     sodipodi:cx="76.367531"
+     sodipodi:cy="120.9221"
+     sodipodi:rx="15.909903"
+     sodipodi:ry="12.727922"
+     d="m 92.277433,120.9221 a 15.909903,12.727922 0 1 1 -31.819805,0 15.909903,12.727922 0 1 1 31.819805,0 z"
+     transform="matrix(0.14388947,0,0,0.17545869,37.011516,-11.216833)" />
+  <path
+     transform="matrix(0.14388947,0,0,0.17545869,5.011516,-11.216833)"
+     d="m 92.277433,120.9221 a 15.909903,12.727922 0 1 1 -31.819805,0 15.909903,12.727922 0 1 1 31.819805,0 z"
+     sodipodi:ry="12.727922"
+     sodipodi:rx="15.909903"
+     sodipodi:cy="120.9221"
+     sodipodi:cx="76.367531"
+     id="path4394"
+     style="fill:#917c6f;fill-opacity:1;stroke:#333333;stroke-width:5.69210005;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter4943)"
+     sodipodi:type="arc" />
+  <path
+     transform="translate(-11.525135,-54.975824)"
+     d="m 17.228108,59.64108 -1.086004,1.050744 -1.452973,-0.415136 -0.366969,-1.465879 1.086004,-1.050744 1.452973,0.415136 z"
+     inkscape:randomized="0"
+     inkscape:rounded="0"
+     inkscape:flatsided="true"
+     sodipodi:arg2="0.80189843"
+     sodipodi:arg1="0.27829966"
+     sodipodi:r2="1.3086637"
+     sodipodi:r1="1.5111147"
+     sodipodi:cy="59.225945"
+     sodipodi:cx="15.775135"
+     sodipodi:sides="6"
+     id="path5746"
+     style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.30000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     sodipodi:type="star" />
+  <path
+     sodipodi:type="star"
+     style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.30000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="path5750"
+     sodipodi:sides="6"
+     sodipodi:cx="15.775135"
+     sodipodi:cy="59.225945"
+     sodipodi:r1="1.5111147"
+     sodipodi:r2="1.3086637"
+     sodipodi:arg1="0.27829966"
+     sodipodi:arg2="0.80189843"
+     inkscape:flatsided="true"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="m 17.228108,59.64108 -1.086004,1.050744 -1.452973,-0.415136 -0.366969,-1.465879 1.086004,-1.050744 1.452973,0.415136 z"
+     transform="matrix(0.65241936,-0.75785815,0.75785815,0.65241936,4.4574778,-22.477401)" />
+  <path
+     transform="matrix(0.96009916,0,0,-0.91288814,1.6195553,55.919403)"
+     d="m 31.643028,56.045051 -7.042283,-12.197592 14.084566,-10e-7 z"
+     inkscape:randomized="0"
+     inkscape:rounded="0"
+     inkscape:flatsided="true"
+     sodipodi:arg2="2.6179939"
+     sodipodi:arg1="1.5707963"
+     sodipodi:r2="4.0658641"
+     sodipodi:r1="8.1317282"
+     sodipodi:cy="47.913322"
+     sodipodi:cx="31.643028"
+     sodipodi:sides="3"
+     id="path4420"
+     style="fill:#c89600;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.92391175000000003;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     sodipodi:type="star"
+     inkscape:transform-center-y="-1.8558406" />
+  <path
+     inkscape:transform-center-y="-1.8558406"
+     sodipodi:type="star"
+     style="fill:#c89600;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.92391175000000003;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     id="path8303"
+     sodipodi:sides="3"
+     sodipodi:cx="31.643028"
+     sodipodi:cy="47.913322"
+     sodipodi:r1="8.1317282"
+     sodipodi:r2="4.0658641"
+     sodipodi:arg1="1.5707963"
+     sodipodi:arg2="2.6179939"
+     inkscape:flatsided="true"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="m 31.643028,56.045051 -7.042283,-12.197592 14.084566,-10e-7 z"
+     transform="matrix(0.96009916,0,0,-0.91288814,1.6195553,71.919403)" />
+  <path
+     transform="matrix(0.96009916,0,0,-0.91288814,1.6195553,87.919403)"
+     d="m 31.643028,56.045051 -7.042283,-12.197592 14.084566,-10e-7 z"
+     inkscape:randomized="0"
+     inkscape:rounded="0"
+     inkscape:flatsided="true"
+     sodipodi:arg2="2.6179939"
+     sodipodi:arg1="1.5707963"
+     sodipodi:r2="4.0658641"
+     sodipodi:r1="8.1317282"
+     sodipodi:cy="47.913322"
+     sodipodi:cx="31.643028"
+     sodipodi:sides="3"
+     id="path8305"
+     style="fill:#c89600;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.92391175000000003;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     sodipodi:type="star"
+     inkscape:transform-center-y="-1.8558406" />
+  <path
+     sodipodi:type="star"
+     style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.30000000999999998;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="path8307"
+     sodipodi:sides="6"
+     sodipodi:cx="15.775135"
+     sodipodi:cy="59.225945"
+     sodipodi:r1="1.5111147"
+     sodipodi:r2="1.3086637"
+     sodipodi:arg1="0.27829966"
+     sodipodi:arg2="0.80189843"
+     inkscape:flatsided="true"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="m 17.228108,59.64108 -1.086004,1.050744 -1.452973,-0.415136 -0.366969,-1.465879 1.086004,-1.050744 1.452973,0.415136 z"
+     transform="matrix(1.0000177,0,0,0.99999914,16.224613,-1.7417725)" />
+  <path
+     transform="matrix(1.0000177,0,0,0.99999914,4.224613,-1.7417725)"
+     d="m 17.228108,59.64108 -1.086004,1.050744 -1.452973,-0.415136 -0.366969,-1.465879 1.086004,-1.050744 1.452973,0.415136 z"
+     inkscape:randomized="0"
+     inkscape:rounded="0"
+     inkscape:flatsided="true"
+     sodipodi:arg2="0.80189843"
+     sodipodi:arg1="0.27829966"
+     sodipodi:r2="1.3086637"
+     sodipodi:r1="1.5111147"
+     sodipodi:cy="59.225945"
+     sodipodi:cx="15.775135"
+     sodipodi:sides="6"
+     id="path8309"
+     style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.30000000999999998;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     sodipodi:type="star" />
+  <path
+     sodipodi:type="star"
+     style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.30000000999999998;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="path8311"
+     sodipodi:sides="6"
+     sodipodi:cx="15.775135"
+     sodipodi:cy="59.225945"
+     sodipodi:r1="1.5111147"
+     sodipodi:r2="1.3086637"
+     sodipodi:arg1="0.27829966"
+     sodipodi:arg2="0.80189843"
+     inkscape:flatsided="true"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="m 17.228108,59.64108 -1.086004,1.050744 -1.452973,-0.415136 -0.366969,-1.465879 1.086004,-1.050744 1.452973,0.415136 z"
+     transform="matrix(1.0000177,0,0,0.99999914,28.224613,-1.7417725)" />
+  <path
+     sodipodi:type="star"
+     style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.30000000999999998;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="path8313"
+     sodipodi:sides="6"
+     sodipodi:cx="15.775135"
+     sodipodi:cy="59.225945"
+     sodipodi:r1="1.5111147"
+     sodipodi:r2="1.3086637"
+     sodipodi:arg1="0.27829966"
+     sodipodi:arg2="0.80189843"
+     inkscape:flatsided="true"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="m 17.228108,59.64108 -1.086004,1.050744 -1.452973,-0.415136 -0.366969,-1.465879 1.086004,-1.050744 1.452973,0.415136 z"
+     transform="translate(-7.525135,-9.225945)" />
+  <path
+     transform="matrix(0.65241936,-0.75785815,0.75785815,0.65241936,0.5731318,23.315161)"
+     d="m 17.228108,59.64108 -1.086004,1.050744 -1.452973,-0.415136 -0.366969,-1.465879 1.086004,-1.050744 1.452973,0.415136 z"
+     inkscape:randomized="0"
+     inkscape:rounded="0"
+     inkscape:flatsided="true"
+     sodipodi:arg2="0.80189843"
+     sodipodi:arg1="0.27829966"
+     sodipodi:r2="1.3086637"
+     sodipodi:r1="1.5111147"
+     sodipodi:cy="59.225945"
+     sodipodi:cx="15.775135"
+     sodipodi:sides="6"
+     id="path8315"
+     style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.30000000999999998;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     sodipodi:type="star" />
+</svg>
